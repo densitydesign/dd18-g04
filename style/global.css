@@ -1,0 +1,214 @@
+@font-face {
+  font-family: "TWK Lausanne 350";
+  src: url("../assets/font/TWKLausanne-400.otf") format("opentype");
+  font-weight: 400; font-style: normal;
+  }
+
+@font-face {
+  font-family: "TWK Lausanne 350";
+  src: url("../assets/font/TWKLausanne-400Italic.otf") format("opentype");
+  font-weight: 400; font-style: italic;
+  }
+
+  @font-face {
+    font-family: "TWK Lausanne 350";
+    src: url("../assets/font/TWKLausanne-1000.otf") format("opentype");
+    font-weight: 1000; font-style: normal;
+    }
+
+/* VARIABLES */
+
+/* GLOBAL VARIABLES */
+:root {
+--blue: #0000ff;
+--grey: #ededed;
+}
+
+
+  :root {
+  /* MARGINS */
+  --margin: 0.9vw;
+  --top-margin: 3vw;
+  --top-header-margin: 5.9vw;
+  --top-higher-margin: 7vw;
+
+  /* FONT SIZES */
+  --s-text: 1.1vw; --s-lh: 1.3vw;
+  --m-text: 1.6vw; --m-lh: 1.8vw;
+  --l-text: 56px; --l-lh: 56px;
+  --xl-text: 5.2vw; --xl-lh: 5.2vw;
+  --xxl-text: 13.2vw; --xxl-lh: 11vw;
+  }
+
+/* FONT SIZES */
+.s-text {font-size: var(--s-text); line-height: var(--s-lh)}
+.m-text {font-size: var(--m-text); line-height: var(--m-lh)}
+.l-text {font-size: var(--l-text); line-height: var(--l-lh)}
+.xl-text {font-size: var(--xl-text); line-height: var(--xl-lh)}
+.xxl-text {font-size: var(--xxl-text); line-height: var(--xxl-lh)}
+
+/* } */
+
+
+
+/* GENERAL FEATURES */
+body {
+  font-family: "TWK Lausanne 350";
+  max-width: 100vw;
+  top: 0;
+  left: 0;
+  margin: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  box-sizing: content-box;
+  scrollbar-width: none;
+  color: black;
+  font-weight: 400;
+}
+
+.full-width {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* LINKS */
+a {
+color: black;
+text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+
+/* MARGIN STYLES */
+.d-inline-block {
+  position: relative;
+}
+
+.standard-margin {
+  padding: var(--margin)
+}
+
+.top-header-margin {
+  padding-top: var(--top-header-margin);
+}
+
+.top-higher-margin {
+  padding-top: var(--top-higher-margin);
+}
+
+
+/* HEADER */
+
+#header {
+  z-index: 10;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+}
+
+#header div { position: relative; }
+
+#header-logo {
+  height: 1.3vw;
+  padding-bottom: 0.1vw;
+}
+
+#header-logo:hover {
+  content:url("../assets/img/bluelogo.svg")
+}
+
+#header a, .marquee span {
+  line-height: 1.1vw;
+  transform:translate(0, 15%)
+}
+
+#header-row-1 {background-color: white;}
+
+#header-row-2 {background-color: var(--grey);}
+
+.d-inline-block img {
+  width: 100%;
+}
+
+
+/* SCROLLSNAP */
+
+#scrollsnap::-webkit-scrollbar {
+  display: none;
+}
+
+#scrollsnap {
+  height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scroll-snap-type: y mandatory;
+  /* scroll-snap-points-y: repeat(100vh); */
+}
+
+.scrolledsnap {
+    scroll-snap-align: start;
+    position:relative;
+}
+
+
+/* FOOTER */
+
+#footer a {
+  color: white
+}
+
+#footer a:hover {
+  color: blue;
+}
+
+#footer img {
+  height: 3vw;
+  margin: 0 var(--margin) var(--margin) 0;
+}
+
+
+/* DESKTOP VARIABLES */
+@media (min-width: 992px) {
+  #mobile-text {display: none}
+}
+
+
+:root{
+  --offset: 5vw;
+  --move-initial: calc(-25% + var(--offset));
+  --move-final: calc(-50% + var(--offset));
+}
+
+.marquee {
+transition: all 0.5s;
+overflow: hidden;}
+
+.running .marquee-inner{
+animation-play-state: running
+}
+:hover .marquee-inner {
+animation-play-state: running
+}
+
+.marquee-inner {
+width: fit-content;
+display: flex;
+position: relative;
+transform: translate3d(var(--move-initial), 0, 0);
+animation: marquee 60s linear infinite;
+animation-play-state: paused;
+}
+
+@keyframes marquee {
+0% {
+transform: translateX(var(--move-initial))
+}
+100% {
+transform: translateX(var(--move-final))
+}
+}

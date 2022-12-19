@@ -1,0 +1,63 @@
+.full-width {
+  position: relative;
+}
+
+.full-width div {
+  padding: var(--top-higher-margin) var(--margin) var(--margin) var(--margin);
+  /* margin-top: 2vw; */
+  /* position: absolute; */
+  /* text-transform: uppercase; */
+}
+
+.intro-text {
+  cursor: pointer;
+}
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.intro-text:hover #intro-logo{
+  content: url('../assets/img/whitelogo.svg');
+  mix-blend-mode: difference;
+}
+
+
+
+
+
+:root{
+    --offset: 5vw;
+    --move-initial: calc(-25% + var(--offset));
+    --move-final: calc(-50% + var(--offset));
+  }
+
+.marquee {
+transition: all 0.5s;
+overflow: hidden;}
+
+.running .marquee-inner{
+animation-play-state: running
+}
+:hover .marquee-inner {
+animation-play-state: running
+}
+
+.marquee-inner {
+width: fit-content;
+display: flex;
+position: relative;
+transform: translate3d(var(--move-initial), 0, 0);
+animation: marquee 60s linear infinite;
+animation-play-state: paused;
+  }
+
+@keyframes marquee {
+0% {
+transform: translateX(var(--move-initial))
+}
+100% {
+transform: translateX(var(--move-final))
+}
+}

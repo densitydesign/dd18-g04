@@ -1,0 +1,22 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            "BANGLADESH",
+            "SPAIN",
+            "TURKEY",
+            "INDIA",
+            "PAKISTAN",
+            "PORTUGAL",
+            "MOROCCO",
+            "VIETNAM",
+            "ITALY",
+            "MYANMAR",
+            "ROMANIA",
+            "EGYPT",
+            "CAMBODIA",
+            "CHINA",
+            "UCRANIA"
+        ]
+    }
+]

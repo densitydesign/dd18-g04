@@ -1,0 +1,59 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#how-sideleft {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#how-sideleft::-webkit-scrollbar {
+  display: none
+}
+
+#how-sideleft img {
+  width: 100%
+}
+
+#who a {
+  color: white;
+}
+
+#who a:hover {
+  color: blue;
+}
+
+.bm {
+  cursor: pointer;
+}
+
+bm:hover {
+  color: blue;
+}
+
+#how-sideleft .row {
+  margin-top: 5vh;
+}
+
+.bm-active {
+  color: blue
+}
+
+.protocol-legend {
+  position: absolute;
+  top: 50vh;
+  transform:translate(0, -50%);
+  right: -10vw;
+  background-color: white;
+  transition: right 1s;
+  cursor: pointer;
+}
+
+.protocol-legend:hover{
+  right: 0;
+}
+
+#who img {
+  height: var(--l-text);
+  padding: 0.4vw var(--margin) 0 0.2vw;
+}
