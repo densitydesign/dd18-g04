@@ -2,16 +2,16 @@ body::-webkit-scrollbar {
   display: none;
 }
 
-#how-sideleft {
+#how {
   overflow-y: scroll;
   overflow-x: hidden;
 }
 
-#how-sideleft::-webkit-scrollbar {
+#how::-webkit-scrollbar {
   display: none
 }
 
-#how-sideleft img {
+#how img {
   width: 100%
 }
 
@@ -31,8 +31,13 @@ bm:hover {
   color: blue;
 }
 
-#how-sideleft .row {
-  margin-top: 5vh;
+#how .row {
+  margin-bottom: 5vh;
+  width: 80%;
+}
+
+#how .s-text {
+  padding-top: var(--margin);
 }
 
 .bm-active {
