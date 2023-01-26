@@ -377,33 +377,68 @@
   <a href="project.html">PROJECT</a>
   </div>
      <!-- Hotspot Navigation -->
-  <nav id="header-row-2" class="d-flex justify-content-between m-text running">
-    <!-- <nav> -->
-        <div id='nav-inner' >
+  <nav id="header-row-2"  style="line-height: 1.2vw; " class="d-flex justify-content-between standard-margin m-text">
+    <div class="d-inline-block" id="prevbtn" style="padding-right: 2vw; cursor: pointer;">←</div>
+
+
+        <div class="d-inline-block" id='nav-inner'>
           <div id='hotspots' class='no-highlight' style="white-space: nowrap;"></div>
+
           <script type='text/html' id='hotspot-template'>
-            <% _.forEach(hotspots, function(hotspot, idx) { %>
-              <div class='hotspot' id='hotspot-<%= idx %>'>
-                <% if (isLocalhost) { %>
-                  <div class='hotspot-action remove-hotspot-x' hidden></div>
-                  <div class='hotspot-action drag-hotspot'hidden></div>
-                  <img class='hotspot-action refresh-hotspot' src='assets/images/icons/refresh.svg'hidden>
-                <% } %>
-                <div class='hotspot-body no-highlight'>
-                  <!-- <img class='hotspot-image' src='data/originals/<%= hotspot.img %>'>  -->
+
+            <% _.forEach(hotspots, function (hotspot, idx) { %>
+
+              <!-- <% console.log(max) %> -->
+
+              <% if   (idx >= min && idx <= max) { %>
+                <div class='hotspot' id='hotspot-<%= idx %>'>
+                  <% if (isLocalhost) { %>
+                    <div class='hotspot-action remove-hotspot-x' hidden></div>
+                    <div class='hotspot-action drag-hotspot'hidden></div>
+                    <img class='hotspot-action refresh-hotspot' src='assets/images/icons/refresh.svg'hidden>
+                  <% } %>
+                  <div class='hotspot-body no-highlight'>
+                    <!-- <img class='hotspot-image' src='data/originals/<%= hotspot.img %>'>  -->
                   <div class='hotspot-bar-container'>
                     <div class='hotspot-bar-inner'></div>
                   </div>
                   <% if (isLocalhost) { %>
-                    <div class='hotspot-label'><%= hotspot.label %></div>
+                    <span class='hotspot-label'><%= hotspot.label %></span>
                   <% } else { %>
-                    <div class='hotspot-label'><%= hotspot.label %></div>
-                  <% } %>
+                    <span class='hotspot-label'><%= hotspot.label %></span>
+                    <% } %>
+                  </div>
                 </div>
-              </div>
+
+              <% } %>
+
+              <% if (idx < min || idx > max) { %>
+                <div class='hotspot' style="display: none" id='hotspot-<%= idx %>'>
+                  <% if (isLocalhost) { %>
+                    <div class='hotspot-action remove-hotspot-x' hidden></div>
+                    <div class='hotspot-action drag-hotspot'hidden></div>
+                    <img class='hotspot-action refresh-hotspot' src='assets/images/icons/refresh.svg'hidden>
+                  <% } %>
+                  <div class='hotspot-body no-highlight'>
+                  <div class='hotspot-bar-container'>
+                    <div class='hotspot-bar-inner'></div>
+                  </div>
+                  <% if (isLocalhost) { %>
+                    <span class='hotspot-label'><%= hotspot.label %></span>
+                  <% } else { %>
+                    <span class='hotspot-label'><%= hotspot.label %></span>
+                    <% } %>
+                  </div>
+                </div>
+              <% } %>
+
             <% }); %>
+
           </script>
         </div>
+
+
+      <div class="d-inline-block" id="nextbtn" style="padding-left: 2vw; cursor: pointer">→</div>
       </nav>
   </div>
 
@@ -413,7 +448,6 @@
 
     <div id="sidebar-inner-flex" class="d-flex flex-column-reverse justify-content-between gx-0 gy-0" style="width: 100%; height: 100%">
 
-      <!-- <header id='header2' class='no-highlight'></header> -->
       <div id='header-controls' class="d-inline-block">
         <div id='header-controls-top' class='no-highlight'>
           <div id='image-search-container'>
@@ -426,7 +460,7 @@
             <div id='date-slider'></div>
           </div>
 
-      <div id="sortlayout" style="width: 100%">
+      <div id="sortlayout" class="s-text" style="width: 100%">
       <div class="standard-margin" style="width: 100%; background-color: var(--grey)">Sort by</div>
           <div class="d-flex justify-content-between" id='layout-icons'>
             <div class='layout-icon conditional' id='layout-geographic'>CLUSTERS</div>
@@ -482,7 +516,7 @@
     <div id='tooltip'></div>
 
     <div id='hide'>
-      <div id='filters-desktop'></div>
+      <div id='filters-desktop' class="s-text"></div>
     </div>
 
     <!-- Loader -->
@@ -713,6 +747,67 @@
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-101732875-1', 'auto');
       ga('send', 'pageview');
+    </script>
+
+    <script>
+    // console.log($("#hotspot-0"))
+    // $("#hotspot-0").removeClass("notshown")
+    // $("#hotspot-0").addClass("shown")
+  //   $(window).load(function () {
+  //   $("#hotspot-4 span").css("display", "none")
+  //   $("#hotspot-5 span").css("display", "none")
+  //   $("#hotspot-6 span").css("display", "none")
+  //   $("#hotspot-7 span").css("display", "none")
+  //   $("#hotspot-8 span").css("display", "none")
+  //   $("#hotspot-9 span").css("display", "none")
+  //   $("#hotspot-10 span").css("display", "none")
+  //   $("#hotspot-11 span").css("display", "none")
+  //   $("#hotspot-12 span").css("display", "none")
+  //   $("#hotspot-13 span").css("display", "none")
+  // })
+
+
+  // for (let min = 0; min >= 0; min++) {
+  //   for (let max = 3; max >= 3; max++) {
+let min = 0;
+let max = 3;
+
+      $("#prevbtn").click(function() {
+        if (min >= 4 && max >= 7) {
+        min = min - 4;
+        max = max - 4;
+      } else {
+        min = 8;
+        max = 11;
+      }
+
+      togglehotspots(min, max);
+      })
+
+      $("#nextbtn").click(function() {
+        if (min <= 8 && max <= 11) {
+        min = min + 4;
+        max = max + 4;
+      } else {
+        min = 0;
+        max = 3;
+      }
+
+        togglehotspots(min, max)
+      })
+
+      function togglehotspots(min, max) {
+
+      for (let i = 0; i < 16; i++) {
+        if (i < min || i > max ) {
+          $("#hotspot-" + i).css("display", "none")
+        }
+        else if (i >= min && i <= max) {
+        $("#hotspot-" + i).css("display", "block")
+        }
+      }
+      }
+
     </script>
 
   </body>

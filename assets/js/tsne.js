@@ -3159,7 +3159,7 @@ function Hotspots() {
   this.addEventListeners();
 }
 
-Hotspots.prototype.initialize = function() {
+Hotspots.prototype.initialize = function eccalà() {
   get(getPath(data.json.custom_hotspots), this.handleJson.bind(this),
     function(err) {
       get(getPath(data.json.default_hotspots), this.handleJson.bind(this))
@@ -3191,7 +3191,9 @@ Hotspots.prototype.addEventListeners = function() {
     this.setCreateHotspotVisibility(false);
     this.setEdited(true);
     // render the hotspots
+
     this.render();
+
     // scroll to the bottom of the hotspots
     setTimeout(this.scrollToBottom.bind(this), 100);
   }.bind(this))
@@ -3245,7 +3247,7 @@ Hotspots.prototype.addEventListeners = function() {
   }.bind(this))
 }
 
-Hotspots.prototype.render = function() {
+Hotspots.prototype.render = function hotspots() {
   // remove any polygon meshes
   if (this.mesh) world.scene.remove(this.mesh);
   // render the new data

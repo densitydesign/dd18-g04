@@ -165,10 +165,10 @@ z-index: 4; */
 
 
 #header2 {
-  height: 100%;
+  /* height: 100%;
   width: 100%;
   bottom:0;
-  font-size: 0;
+  font-size: 0; */
 }
 
 #header-brand {
@@ -268,7 +268,7 @@ z-index: 4; */
   z-index: 2;
   transition: transform 0.3s;
   transform: translateY(-1000px);
-  
+
 }
 
 #header-controls-bottom.open {
@@ -590,7 +590,7 @@ input[type=range]::-ms-thumb {
 
 #layout-icons .active {
   color:blue
-} 
+}
 
 
 /* #layout-icons #layout-geographic {
@@ -655,29 +655,10 @@ input[type=range]::-ms-thumb {
   padding-right: 30px;
   transition: opacity 0.5s; */
   box-sizing: content-box;
-  width: 100%;
+  /* width: %; */
   cursor: pointer;
   /* overflow-x: hidden; */
 }
-/* nav {
-  overflow: hidden;
-  z-index: 5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  background: #000;
-  transition: opacity 0.5s;
-  color: #ddd;
-  opacity: 1;
-  cursor: default;
-  overflow: hidden;
-  -webkit-transform: translateZ(0px);
-  -moz-transform: translateZ(0px);
-  -o-transform: translateZ(0px);
-  transform: translateZ(0px);
-}
-
-
 
 nav.disabled #nav-inner {
   opacity: 0.3;
@@ -686,19 +667,18 @@ nav.disabled #nav-inner {
 }
 
 nav h2 {
-  font-size: 12px;
+  /* font-size: 12px;
   letter-spacing: 0.05em;
   line-height: 1.05em;
   text-align: center;
   text-transform: uppercase;
-  font-weight: 800;
-} */
+  font-weight: 800; */
+}
 
 #hotspots {
-  position: absolute;
+  /* position: absolute;
   top: 0;
-  white-space: nowrap;
-  padding: var(--margin) var(--margin) var(--margin) var(--margin);
+  white-space: nowrap; */
   display: flex;
   gap: 12vw;
 }
@@ -708,52 +688,32 @@ nav h2 {
 }
 
 #hotspots:hover {
-  overflow-x: scroll;
+  /* overflow-x: scroll; */
   }
 
 #hotspots:hover .marquee-inner{
 animation-play-state: paused;
 }
 
-.hotspot {
-  display: inline-block;
-  /* width: 20vw; */
-  /* border: solid; */
-  /* height:50px;
-  font-size: 12px;
-  color: #b3b3b3; */
+
+#header-row-2 div {
+  transform:translate(0, 3%);
 }
 
-
-/* .hotspot img{
-  display: none;  */
-  /* position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0; */
-/* } */
-
-.hotspot-label {
-  line-height: 1.1vw;
-  transform:translate(0, 15%)
-}
-
-.hotspot-label:hover {
+.hotspot-label:hover, #prevbtn:hover, #nextbtn:hover {
   color: blue;
 }
 
+
 #hotspot-actions {
-  position: absolute;
+  /* position: absolute;
   bottom: 15px;
   left: 120px;
-  width: 130px;
+  width: 130px; */
 }
 
 .hotspot-action {
-  position: absolute;
+  /* position: absolute;
   top: -6px;
   width: 12px;
   height: 12px;
@@ -763,58 +723,58 @@ animation-play-state: paused;
   font-size: 8px;
   line-height: 13px;
   border-radius: 2px;
-  z-index: 1;
+  z-index: 1; */
 }
 
 .hotspot .remove-hotspot-x,
 .hotspot .refresh-hotspot {
-  top: 6px;
-  box-shadow: 0px 0px 3px #000;
+  /* top: 6px;
+  box-shadow: 0px 0px 3px #000; */
 }
 
 .hotspot .remove-hotspot-x {
-  right: 9px;
+  /* right: 9px;
   background: #9c1717;
   color: #eee;
-  line-height: 12px;
+  line-height: 12px; */
   display: none;
 }
 
 .hotspot .remove-hotspot-x:hover {
-  background: firebrick;
+  /* background: firebrick; */
 }
 
 .hotspot .drag-hotspot,
 .hotspot .refresh-hotspot {
-  color: #fff;
+  /* color: #fff; */
 }
 
 .hotspot .drag-hotspot {
-  left: 6px;
+  /* left: 6px;
   font-size: 19px;
-  line-height: 12px;
+  line-height: 12px; */
   /* cursor: grab; */
-  transform: rotate(90deg);
+  /* transform: rotate(90deg);
   top: 50%;
   margin-top: -14px;
-  display: none;
+  display: none; */
 }
 
 
 
 .hotspot .refresh-hotspot {
-  position: absolute;
+  /* position: absolute;
   left: 9px;
   padding: 2px;
   display: none;
   background: #414141;
   width: 14px;
   height: 14px;
-  box-sizing: border-box;
+  box-sizing: border-box; */
 }
 
 .hotspot .refresh-hotspot:hover {
-  opacity:0;
+  /* opacity:0; */
 }
 
 /* .hotspot:hover .hotspot-image {
@@ -834,7 +794,7 @@ animation-play-state: paused;
 * Hotspot actions
 **/
 
-#hotspot-actions {
+/* #hotspot-actions {
   position: absolute;
   left: 500px;
   bottom: 10px;
@@ -860,13 +820,13 @@ animation-play-state: paused;
   color: #000;
   border: 2px solid #eab755;
   display: none;
-}
+} */
 
 /**
 * New hotspot button in hotspot column
 **/
 
-#new-hotspot {
+/* #new-hotspot {
   height: 90px;
   text-align: center;
   font-size: 45px;
@@ -930,13 +890,13 @@ animation-play-state: paused;
 @keyframes marching-ants {
   0% { background-position: 0 0,  0 100%,  0 0,  100% 0; }
   100% { background-position: 40px 0, -40px 100%, 0 -40px, 100% 40px; }
-}
+} */
 
 /**
 * New hotspot button in the plot
 **/
 
-#new-hotspot-icon {
+/* #new-hotspot-icon {
   position: absolute;
   top: 0;
   left: 0;
@@ -949,10 +909,10 @@ animation-play-state: paused;
   transition: transform 0.3s;
   border-radius: 3px;
   cursor: pointer;
-}
+} */
 
 /**
-* Loader
+* !!!!!!LOADER!!!!!
 **/
 
 #loader-scene {
@@ -985,7 +945,7 @@ animation-play-state: paused;
 }
 
 #loader-text {
-  position: absolute; 
+  position: absolute;
   top: var(--top-higher-margin);
   bottom: var(--margin);
   left: 0;
@@ -1143,7 +1103,7 @@ animation-play-state: paused;
   transition: opacity .3s;
   cursor: pointer;
   color:#fff;
-  min-height: 39px;  
+  min-height: 39px;
 } */
 
 #enter-button {
@@ -1259,7 +1219,7 @@ noscript {
 /*
 .modal-bottom-content {
    font-size: 12px;
-  line-height: 18px; 
+  line-height: 18px;
    display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -2021,4 +1981,3 @@ input[type=text] {
   }
 
 }
-
