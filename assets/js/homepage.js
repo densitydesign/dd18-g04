@@ -9,15 +9,19 @@ section.mouseover(function () {
   var index = $(this).parent().index() + 1;
   var imagepath = "url('assets/img/home" + index + ".gif')"
 
+
+  if (index < 5) {
+    $(this).css("color", "white");
+    $(this).css("mix-blend-mode", "difference");
+}
+
 if (index < 3) {
-  $(this).css("color", "white");
-  $(this).css("mix-blend-mode", "difference");
   $(this).parent().css("background", "none");
   $("#bg-container").css("background-image", imagepath);
  }
 
- if (index == 3) {
-   $("#img3").css("display", "block");
+ if (index >= 3) {
+   $(this).siblings().css("display", "block");
  }
 
    if ($(this).is("#hover-left")) {
@@ -37,23 +41,24 @@ section.mouseout(function() {
 var index = $(this).parent().index() + 1;
 
 
-if (index < 3) {
-  $(this).css("color", "black");
-  $(this).css("mix-blend-mode", "initial");
-  $("#bg-container").css("background-image", "none");
-}
+$(this).css("color", "black");
+$(this).css("mix-blend-mode", "initial");
 
-  $("#img3").css("display", "none");
+// if (index < 3 ) {
+  $("#bg-container").css("background-image", "none");
+// }
+
+  $("img").css("display", "none");
 
 if (index == 2) {
   $(this).parent().css("background-color", "var(--grey)");
 }
 
- if (index > 3) {
-$(this).children().css("color", "black");
-$(this).children().css("mix-blend-mode", "initial");
-$(this).css("background-image", "none")
-}
+//  if (index > 4) {
+// $(this).children().css("color", "black");
+// $(this).children().css("mix-blend-mode", "initial");
+// $(this).css("background-image", "none")
+// }
 })
 
 
