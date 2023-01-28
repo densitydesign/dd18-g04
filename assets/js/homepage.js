@@ -44,11 +44,8 @@ var index = $(this).parent().index() + 1;
 $(this).css("color", "black");
 $(this).css("mix-blend-mode", "initial");
 
-// if (index < 3 ) {
   $("#bg-container").css("background-image", "none");
-// }
-
-  $("img").css("display", "none");
+  $(".homeimg").css("display", "none");
 
 if (index == 2) {
   $(this).parent().css("background-color", "var(--grey)");
