@@ -586,6 +586,7 @@ input[type=range]::-ms-thumb {
 .layout-icon {
   padding: var(--margin);
   text-align: center;
+  cursor: pointer;
 }
 
 #layout-icons .active {
@@ -1211,7 +1212,7 @@ noscript {
   font-size: 12px; */
   position: relative;
   padding: var(--margin);
-  margin-top: var(--margin);
+  /* margin-top: var(--margin); */
   box-sizing: border-box;
   /* height: 115px; */
 }

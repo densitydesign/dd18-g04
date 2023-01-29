@@ -377,7 +377,7 @@
   <a href="project.html">PROJECT</a>
   </div>
      <!-- Hotspot Navigation -->
-  <nav id="header-row-2"  style="line-height: 1.2vw; " class="d-flex justify-content-between standard-margin m-text">
+  <nav id="header-row-2"  style="line-height: 1.2vw;" class="d-flex justify-content-between standard-margin m-text">
     <div class="d-inline-block" id="prevbtn" style="padding-right: 2vw; cursor: pointer;">←</div>
 
 
@@ -387,8 +387,6 @@
           <script type='text/html' id='hotspot-template'>
 
             <% _.forEach(hotspots, function (hotspot, idx) { %>
-
-              <!-- <% console.log(max) %> -->
 
               <% if   (idx >= min && idx <= max) { %>
                 <div class='hotspot' id='hotspot-<%= idx %>'>
@@ -750,25 +748,7 @@
     </script>
 
     <script>
-    // console.log($("#hotspot-0"))
-    // $("#hotspot-0").removeClass("notshown")
-    // $("#hotspot-0").addClass("shown")
-  //   $(window).load(function () {
-  //   $("#hotspot-4 span").css("display", "none")
-  //   $("#hotspot-5 span").css("display", "none")
-  //   $("#hotspot-6 span").css("display", "none")
-  //   $("#hotspot-7 span").css("display", "none")
-  //   $("#hotspot-8 span").css("display", "none")
-  //   $("#hotspot-9 span").css("display", "none")
-  //   $("#hotspot-10 span").css("display", "none")
-  //   $("#hotspot-11 span").css("display", "none")
-  //   $("#hotspot-12 span").css("display", "none")
-  //   $("#hotspot-13 span").css("display", "none")
-  // })
 
-
-  // for (let min = 0; min >= 0; min++) {
-  //   for (let max = 3; max >= 3; max++) {
 let min = 0;
 let max = 3;
 
@@ -808,6 +788,11 @@ let max = 3;
       }
       }
 
+$(document).load(function () {
+$(".hotspot").click(function () {
+  console.log($(this))
+})
+})
     </script>
 
   </body>
