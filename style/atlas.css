@@ -353,7 +353,7 @@ z-index: 4; */
 
 .filter.has-selection .filter-label,
 .filter.has-selection .filter-label::after {
-  color: blue;
+  color: var(--blue);
 }
 
 .filter-option input {
@@ -361,7 +361,7 @@ z-index: 4; */
 }
 
 .filter-option input[type="checkbox"]:checked {
-  background-color: blue !important;
+  background-color: var(--blue) !important;
 }
 
 .filter.open .filter-options {
@@ -569,17 +569,17 @@ input[type=range]::-ms-thumb {
 } */
 
 #layout-geographic:hover {
-  color: blue;
+  color: var(--blue);
   cursor: pointer;
 }
 
 #layout-categorical:hover {
-  color: blue;
+  color: var(--blue);
   cursor: pointer;
 }
 
 #layout-umap:hover {
-  color: blue;
+  color: var(--blue);
   cursor: pointer;
 }
 
@@ -590,7 +590,7 @@ input[type=range]::-ms-thumb {
 }
 
 #layout-icons .active {
-  color:blue
+  color:var(--blue)
 }
 
 
@@ -702,7 +702,7 @@ animation-play-state: paused;
 }
 
 .hotspot-label:hover, #prevbtn:hover, #nextbtn:hover {
-  color: blue;
+  color: var(--blue);
 }
 
 
