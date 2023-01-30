@@ -33,11 +33,11 @@ bm:hover {
 
 #how .row {
   margin-bottom: 5vh;
-  width: 80%;
+  width: 95%;
 }
 
-#how .s-text {
-  padding-top: var(--margin);
+.text-left {
+  padding-bottom: 2vw;
 }
 
 .bm-active {
