@@ -1601,7 +1601,7 @@ World.prototype.getInitialLocation = function() {
   return {
     x: 0,
     y: 0,
-    z: 3,
+    z: 3.5,
   }
 }
 
