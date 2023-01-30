@@ -561,6 +561,7 @@
     </div>
     <!-- Image Picker: single image selection -->
     <script type='text/html' id='selected-image-template'>
+
       <div class='modal-content'>
         <div class='modal-x' style="display: none">✕</div>
 
@@ -570,22 +571,22 @@
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
               <div>COUNTRY</div>
-              <div style="text-align: right; max-width: 70%"><%= meta.category ? decodeURIComponent(meta.category) : '' %></div>
+              <div style="text-align: right; max-width: 70%; text-transform: uppercase" ><%= meta.category ? decodeURIComponent(meta.category) : '' %></div>
             </div>
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
             <div>CITY</div>
-            <div style="text-align: right; max-width: 70%"><%= meta.city ? decodeURIComponent(meta.city) : '' %></div>
+            <div style="text-align: right; max-width: 70%; text-transform: uppercase" ><%= meta.city ? decodeURIComponent(meta.city) : '' %></div>
           </div>
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
             <div>FACTORY</div>
-            <div style="text-align: right; max-width: 70%"><%= meta.factory ? decodeURIComponent(meta.factory) : '' %></div>
+            <div style="text-align: right; max-width: 70%; text-transform: uppercase" ><%= meta.factory ? decodeURIComponent(meta.factory) : '' %></div>
           </div>
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
               <div>ADDRESS</div>
-            <div style="text-align: right; max-width: 70%"><%= meta.address ? decodeURIComponent(meta.address) : '' %></div>
+            <div style="text-align: right; max-width: 70%;" ><%= meta.address ? decodeURIComponent(meta.address) : '' %></div>
             </div>
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
@@ -599,8 +600,8 @@
             </div>
 
             <div class="d-flex gy-0 justify-content-between" style="width: 100%">
-              <div>CLUSTERS</div>
-            <div style="text-align: right; max-width: 70%"><%= meta.tag ? decodeURIComponent(meta.tag) : '' %></div>
+              <div>CLUSTER</div>
+            <div id="clusterproperty" style="text-align: right; max-width: 70%; text-transform: uppercase"><%= meta.tag ? decodeURIComponent(meta.tag) : '' %></div>
             </div>
 
               <!-- <% if (meta.category || meta.tags) { %>
@@ -639,6 +640,7 @@
           </div>
         </div>
       </div>
+
     </script>
     <!-- <div id='selected-image-modal'></div> -->
     <!-- Image Selection: multi-image selection -->
@@ -802,6 +804,12 @@ a.classList.add("selected-hotspot");
 //   console.log($(this))
 // })
 // })
+// function checktext() {
+//   console.log(gong)
+// if ($("#clusterproperty").is(':contains(";")')) {
+//   console.log("pappalo lì");
+// }
+// }
     </script>
 
   </body>

@@ -1991,3 +1991,7 @@ input[type=text] {
 .selected-hotspot {
   color: var(--blue);
 }
+
+.capitalizzami{
+  text-transform: capitalize;
+}
