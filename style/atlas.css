@@ -87,7 +87,7 @@ select:disabled {
 #canvas-container {
   position: absolute;
   /* top: var(--top-header-margin); */
-  top: -35vh;
+  top: -40vh;
   left: 25vw;
   right: 0;
   bottom: 0;

@@ -1,4 +1,4 @@
-/* body {
+body {
   background-color: black;
   color: white;
   font-size: 16px;
@@ -6,46 +6,4 @@
 
 div, iframe {
   display: none;
-} */
-
-
-/* .s-text {font-size: var(--s-text); line-height: var(--s-lh)}
-.m-text {font-size: var(--m-text); line-height: var(--m-lh)}
-.l-text {font-size: var(--l-text); line-height: var(--l-lh)}
-.xl-text {font-size: var(--xl-text); line-height: var(--xl-lh)}
-.xxl-text {font-size: var(--xxl-text); line-height: var(--xxl-lh)} */
-
-
-  :root {
-  /* MARGINS */
-  --mobile-margin: 3vw;
-  --mobile-top-margin: 10vw;
-  --mobile-top-header-margin: 15vw;
-  --mobile-top-higher-margin: 20vw;
-
-  /* FONT SIZES */
-  --s-mobile-text: 2vw; --s-mobile-lh: 2vw;
-  --m-mobile-text:5vw; --m-mobile-lh:5vw;
-  --l-mobile-text: 20vw; --l-lh: 20vw;
-  --xl-mobile-text: 9vw; --xl-mobile-lh: 9vw;
-  --xxl-mobile-text: 12vw; --xxl-mobile-lh: 12vw;
-  }
-
-  .s-text {font-size: var(--s-mobile-text); line-height: var(--s-mobile-lh)}
-  .m-text {font-size: var(--m-mobile-text); line-height: var(--m-mobile-lh)}
-  .l-text {font-size: var(--l-mobile-text); line-height: var(--l-mobile-lh)}
-  .xl-text {font-size: var(--xl-mobile-text); line-height: var(--xl-mobile-lh)}
-  .xxl-text {font-size: var(--xxl-mobile-text); line-height: var(--xxl-mobile-lh)}
-
-
-  .standard-margin {
-    padding: var(--mobile-margin)
-  }
-
-  .top-header-margin {
-    padding-top: var(--mobile-top-header-margin);
-  }
-
-  .top-higher-margin {
-    padding-top: var(--mobile-top-higher-margin);
-  }
+}
