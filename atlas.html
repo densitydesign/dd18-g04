@@ -411,7 +411,7 @@
               <% } %>
 
               <% if (idx < min || idx > max) { %>
-                <div class='hotspot' style="display: none" id='hotspot-<%= idx %>'>
+                <div class='hotspot' onclick="bluecolor()" style="display: none" id='hotspot-<%= idx %>'>
                   <% if (isLocalhost) { %>
                     <div class='hotspot-action remove-hotspot-x' hidden></div>
                     <div class='hotspot-action drag-hotspot'hidden></div>
