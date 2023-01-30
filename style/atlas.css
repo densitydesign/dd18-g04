@@ -548,6 +548,7 @@ input[type=range]::-ms-thumb {
 #layout-icons {
    left:0;
   vertical-align: bottom;
+  background-color: var(--grey);
   /* margin-top: 10px; */
 }
 
@@ -583,14 +584,18 @@ input[type=range]::-ms-thumb {
   cursor: pointer;
 }
 
+#layout-icons div {
+    padding: var(--margin);
+    transform:translate(0, 5%)
+}
+
 .layout-icon {
-  padding: var(--margin);
   text-align: center;
   cursor: pointer;
 }
 
 #layout-icons .active {
-  color:var(--blue)
+  color:var(--blue);
 }
 
 
