@@ -546,7 +546,7 @@
     <!-- Canvas -->
     <div id='canvas-container'>
       <div id='canvas-target'>
-        <canvas id='pixplot-canvas'></canvas>
+        <canvas id='pixplot-canvas' ontouchmove="tipregoo(event)"></canvas>
       </div>
     </div>
     <!-- Dismissible Tooltip: Hotspots -->
@@ -810,6 +810,10 @@ a.classList.add("selected-hotspot");
 //   console.log("pappalo lì");
 // }
 // }
+
+function tipregoo() {
+$(".hotspot-label").removeClass("selected-hotspot");
+}
     </script>
 
   </body>

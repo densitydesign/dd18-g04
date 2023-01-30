@@ -1993,5 +1993,5 @@ input[type=text] {
 }
 
 .capitalizzami{
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
