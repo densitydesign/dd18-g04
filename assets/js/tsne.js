@@ -3451,13 +3451,14 @@ Globe.prototype.load = function() {
     parentGeometry.merge(mesh.geometry, mesh.matrix);
   }
 
-  get(getPath('assets/json/flat-continents2.json'), function(json) {
+  get(getPath('assets/json/cluster_names.json'), function(json) {
     json.forEach(addShape.bind(this, self.globeGeometry));
     var material = new THREE.MeshBasicMaterial({
-      color: 0x333333,
+      color: 0xffffff,
       side: THREE.DoubleSide,
     })
     self.globeMesh = new THREE.Mesh(self.globeGeometry, material);
+    globe.show()
   })
 
   get(getPath('assets/json/geographic-features.json'), function(json) {
