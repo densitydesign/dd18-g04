@@ -546,7 +546,7 @@
     <!-- Canvas -->
     <div id='canvas-container'>
       <div id='canvas-target'>
-        <canvas id='pixplot-canvas' ontouchmove="tipregoo(event)"></canvas>
+        <canvas id='pixplot-canvas'></canvas>
       </div>
     </div>
     <!-- Dismissible Tooltip: Hotspots -->
@@ -792,11 +792,12 @@ let max = 3;
       }
 
 function bluecolor() {
-// $(".hotspot-label").css("color", "black")
 var a = event.target;
 var b = $(".hotspot-label")
 b.removeClass("selected-hotspot");
 a.classList.add("selected-hotspot");
+
+updatecanvas()
 }
 
 // $(document).load(function () {
@@ -811,8 +812,24 @@ a.classList.add("selected-hotspot");
 // }
 // }
 
-function tipregoo() {
-$(".hotspot-label").removeClass("selected-hotspot");
+function updatecanvas() {
+
+    var c = document.querySelector(".selected-hotspot");
+
+    if (c !== null) {
+
+  const canvasinteraction = document.querySelector("canvas")
+
+  canvasinteraction.addEventListener("mousedown", (e) => {
+    e.preventDefault()
+
+canvasinteraction.addEventListener("mousemove", (ev) => {
+    ev.preventDefault()
+
+    c.classList.remove("selected-hotspot");
+  })
+  })
+}
 }
     </script>
 
