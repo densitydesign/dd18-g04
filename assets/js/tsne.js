@@ -3159,7 +3159,7 @@ function Hotspots() {
   this.addEventListeners();
 }
 
-Hotspots.prototype.initialize = function eccalà() {
+Hotspots.prototype.initialize = function () {
   get(getPath(data.json.custom_hotspots), this.handleJson.bind(this),
     function(err) {
       get(getPath(data.json.default_hotspots), this.handleJson.bind(this))
@@ -3262,9 +3262,23 @@ Hotspots.prototype.render = function hotspots() {
     // show the number of cells in this hotspot's cluster
     hotspots[i].querySelector('.hotspot-bar-inner').style.width = (100 * this.json[i].images.length / data.cells.length) + '%';
     // add hotspot event listeners each time they are re-rendered
+
     hotspots[i].querySelector('.hotspot-label').addEventListener('click', function(idx) {
+
+      // event.target.style.color = 'blue';
       world.flyToCellImage(this.json[idx].img);
+          //
+          // let parente = event.target.parentNode.parentNode.parentNode;
+          // let childrente = parente.children;
+          // childrente.style.color = "red";
+          // for (let j = 0; j < childrente.length; j++) {
+          //     if (childrente[j] !== event.target) {
+          //         childrente[j].style.color = 'black';
+          //     }
+          // }
+
     }.bind(this, i));
+
     // show the convex hull of a cluster on mouse enter
     hotspots[i].addEventListener('mouseenter', function(idx) {
       // update the hover cell buffer
