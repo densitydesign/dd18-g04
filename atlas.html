@@ -815,20 +815,31 @@ updatecanvas()
 function updatecanvas() {
 
     var c = document.querySelector(".selected-hotspot");
+    const canvasevent = document.querySelector("canvas")
 
-    if (c !== null) {
+if (c !== null) {
 
-  const canvasinteraction = document.querySelector("canvas")
+canvasevent.addEventListener("mousedown", (e) => {
+e.preventDefault()
 
-  canvasinteraction.addEventListener("mousedown", (e) => {
-    e.preventDefault()
+canvasevent.addEventListener("mousemove", (ev) => {
+ev.preventDefault()
+removeselection()
+})
+})
 
-canvasinteraction.addEventListener("mousemove", (ev) => {
-    ev.preventDefault()
 
+canvasevent.addEventListener("wheel", (eve) => {
+    eve.preventDefault()
+
+    if (eve.deltaY > 0) {
+    removeselection()
+  }
+  })
+
+  function removeselection() {
     c.classList.remove("selected-hotspot");
-  })
-  })
+  }
 }
 }
     </script>
