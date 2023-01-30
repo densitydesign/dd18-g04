@@ -6,12 +6,12 @@
     "city": "Gurgaon",
     "category": "INDIA",
     "address": "Plot No. 66, Sector-34, Ehtp",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.4312224",
     "truelng": "77.0089003",
     "lat": "-29.2554",
     "lng": "206.3195",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

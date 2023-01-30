@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Ambag, Post Office: Nilnagar",
-    "clusters": "Office; Piles; ",
+    "clusters": "Office; Stacked items; ",
     "truelat": "24.0107114",
     "truelng": "90.3236931",
     "lat": "-228.4941",
     "lng": "52.7229",
-    "tag": "Office; Piles; ",
+    "tag": "Office; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

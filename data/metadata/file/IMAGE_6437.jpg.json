@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Ambag, Post Office: Nilnagar",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.0107114",
     "truelng": "90.3236931",
     "lat": "77.4452",
     "lng": "6.36",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

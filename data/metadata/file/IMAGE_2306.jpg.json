@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Shathiabari, Dhaladia, Rajendrapur, Sreepur,, Rajendrapur, Sreepur",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-42.0925",
     "lng": "-205.6741",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

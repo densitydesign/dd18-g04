@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Zone Industrielle Gzenaya Lot 184",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "35.715623088517725",
     "truelng": "-5.894824828836138",
     "lat": "-140.4932",
     "lng": "-260.3767",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "MOROCCO"
     ]

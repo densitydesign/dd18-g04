@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chowdhury Bari, Vogra, Gazipur Sadar",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9266271",
     "truelng": "90.398301",
     "lat": "-201.7898",
     "lng": "170.812",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

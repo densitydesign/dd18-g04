@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "Machines; Signs; Piles; ",
+    "clusters": "Machinery; Signs; Stacked items; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "-135.6625",
     "lng": "111.5001",
-    "tag": "Machines; Signs; Piles; ",
+    "tag": "Machinery; Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

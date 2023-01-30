@@ -6,12 +6,12 @@
     "city": "Ho Chi Minh",
     "category": "VIETNAM",
     "address": "121 Le Van Chi, Linh Trung Ward, Thu Duc District",
-    "clusters": "Snack; Vehicles; Signs; ",
+    "clusters": "Food; Vehicles; Signs; ",
     "truelat": "10.8586302",
     "truelng": "106.7775529",
     "lat": "9.7977",
     "lng": "-121.5121",
-    "tag": "Snack; Vehicles; Signs; ",
+    "tag": "Food; Vehicles; Signs; ",
     "tags": [
         "VIETNAM"
     ]

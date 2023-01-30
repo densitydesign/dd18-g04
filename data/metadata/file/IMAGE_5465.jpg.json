@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Texeurop (Bd ) Ltd, Vogra, Joydevpur",
-    "clusters": "Signs; Piles; ",
+    "clusters": "Signs; Stacked items; ",
     "truelat": "23.9832907",
     "truelng": "90.3823465",
     "lat": "-184.8354",
     "lng": "77.7276",
-    "tag": "Signs; Piles; ",
+    "tag": "Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

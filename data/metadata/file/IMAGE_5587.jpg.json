@@ -6,12 +6,12 @@
     "city": "Lahore",
     "category": "PAKISTAN",
     "address": "13 Km Defence-Raiwind Road",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "31.3689001",
     "truelng": "74.2325105",
     "lat": "75.7439",
     "lng": "-4.2336",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "PAKISTAN"
     ]

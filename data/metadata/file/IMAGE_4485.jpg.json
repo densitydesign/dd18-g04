@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Zirani Bazar, Kashimpur, Gazipur",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "23.9937669",
     "truelng": "90.2551098",
     "lat": "-129.8338",
     "lng": "175.2139",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

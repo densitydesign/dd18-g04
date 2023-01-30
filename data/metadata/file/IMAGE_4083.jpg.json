@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "235/236 East Chandura Shafipur Kaliakoir Gazipur",
-    "clusters": "Signs; Piles; ",
+    "clusters": "Signs; Stacked items; ",
     "truelat": "24.069452",
     "truelng": "90.222418",
     "lat": "-179.3055",
     "lng": "75.0807",
-    "tag": "Signs; Piles; ",
+    "tag": "Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

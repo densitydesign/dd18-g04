@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-27, Sector-Xi, Noida-201301, Uttar Pradesh",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.6093821",
     "truelng": "77.3661551",
     "lat": "-93.9733",
     "lng": "193.0433",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

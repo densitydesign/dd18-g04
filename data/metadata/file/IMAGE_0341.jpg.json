@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Mouza-Baroivhog, Bscic Industrial Area, Enayetnagar, Fatullah Narayanganj",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "23.6422928",
     "truelng": "90.4816582",
     "lat": "-116.2523",
     "lng": "175.1876",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

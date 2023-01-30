@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-175, Sec-66",
-    "clusters": "People outside; Logos; ",
+    "clusters": "Outside break; Factory logos; ",
     "truelat": "28.6211111",
     "truelng": "77.3830556",
     "lat": "-104.7013",
     "lng": "-179.6015",
-    "tag": "People outside; Logos; ",
+    "tag": "Outside break; Factory logos; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Bade Kalmeshwar, Board Bazar",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9446619",
     "truelng": "90.3842123",
     "lat": "-202.769",
     "lng": "163.4868",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

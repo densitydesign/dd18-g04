@@ -6,12 +6,12 @@
     "city": "Bangalore",
     "category": "INDIA",
     "address": "Near Bagalur Cross,I.A.F. Station P.O. Yelahanka",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "13.1220206",
     "truelng": "77.6105476",
     "lat": "-135.1362",
     "lng": "-258.9266",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "INDIA"
     ]

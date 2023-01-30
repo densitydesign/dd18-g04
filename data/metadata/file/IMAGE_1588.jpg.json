@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Jarun (South), Kashimpur Gazipur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9944848",
     "truelng": "90.3221356",
     "lat": "-199.2065",
     "lng": "147.0859",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Hung Yen",
     "category": "VIETNAM",
     "address": "Giai Pham Village, Giai Pham Ward, Yen My District",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "20.935692",
     "truelng": "106.0258126",
     "lat": "-176.8915",
     "lng": "165.2329",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "VIETNAM"
     ]

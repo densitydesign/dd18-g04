@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "2 Dhaka - Mymensingh Hwy",
-    "clusters": "People outside; Logos; ",
+    "clusters": "Outside break; Factory logos; ",
     "truelat": "23.9921795",
     "truelng": "90.3844276",
     "lat": "-107.372",
     "lng": "-181.292",
-    "tag": "People outside; Logos; ",
+    "tag": "Outside break; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

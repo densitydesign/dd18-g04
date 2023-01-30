@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Ratanpur, Shafipur, Kaliakoir",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "24.0552221",
     "truelng": "90.2867581",
     "lat": "-127.0732",
     "lng": "174.9069",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

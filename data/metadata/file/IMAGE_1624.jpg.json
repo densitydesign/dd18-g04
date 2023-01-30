@@ -6,12 +6,12 @@
     "city": "Meknes",
     "category": "MOROCCO",
     "address": "Lot 100, Zi Mejjat",
-    "clusters": "Woman; Machines; Piles; ",
+    "clusters": "Woman; Machinery; Stacked items; ",
     "truelat": "31.3626983",
     "truelng": "-8.5116903",
     "lat": "-85.2916",
     "lng": "116.699",
-    "tag": "Woman; Machines; Piles; ",
+    "tag": "Woman; Machinery; Stacked items; ",
     "tags": [
         "MOROCCO"
     ]

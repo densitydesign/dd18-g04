@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "30.2919",
     "lng": "-142.3552",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "BANGLADESH"
     ]

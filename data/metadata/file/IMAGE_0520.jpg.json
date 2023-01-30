@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "K\u0131rm\u0131z\u0131 Cd. No:5",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "40.2333013",
     "truelng": "28.9572767",
     "lat": "-140.8269",
     "lng": "-246.4616",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

@@ -31,7 +31,7 @@
     ],
     "img": "IMAGE_6621.jpg",
     "layout": "inception_vectors",
-    "label": "SELFIE"
+    "label": "SELFIES"
   },
   {
     "images": [
@@ -72,7 +72,7 @@
     ],
     "img": "IMAGE_0288.jpg",
     "layout": "inception_vectors",
-    "label": "OFFICE WORK"
+    "label": "OFFICE"
   },
   {
     "images": [
@@ -1059,7 +1059,7 @@
     ],
     "img": "IMAGE_0004.jpg",
     "layout": "inception_vectors",
-    "label": "FAMOUS BRANDS"
+    "label": "BRAND LOGOS"
   },
   {
     "images": [
@@ -1654,7 +1654,7 @@
         4081],
     "img": "IMAGE_5891.jpg",
     "layout": "inception_vectors",
-    "label": "PILES OF STUFF"
+    "label": "STACKED ITEMS"
   },
   {
     "images": [
@@ -1843,7 +1843,7 @@
     ],
     "img": "IMAGE_0028.jpg",
     "layout": "inception_vectors",
-    "label": "SAFETY"
+    "label": "SAFETY EQUIPMENT"
   },
   {
     "images": [
@@ -2100,7 +2100,7 @@
     ],
     "img": "IMAGE_0601.jpg",
     "layout": "inception_vectors",
-    "label": "FLIP FLOPS"
+    "label": "FLIP-FLOPS"
   },
   {
     "images": [

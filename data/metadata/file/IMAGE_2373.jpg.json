@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandra, Polli Biddyut, Kaliakior",
-    "clusters": "People outside; Vehicles; Safety; ",
+    "clusters": "Outside break; Vehicles; Safety equipment; ",
     "truelat": "24.0378585",
     "truelng": "90.2563548",
     "lat": "-69.7691",
     "lng": "-138.5396",
-    "tag": "People outside; Vehicles; Safety; ",
+    "tag": "Outside break; Vehicles; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

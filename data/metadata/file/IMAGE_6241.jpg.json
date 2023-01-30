@@ -6,12 +6,12 @@
     "city": "Phu Binh",
     "category": "VIETNAM",
     "address": "Kha Son Industrial Park, Kha Son Hamlet",
-    "clusters": "Snack; Machines; ",
+    "clusters": "Food; Machinery; ",
     "truelat": "21.4299699",
     "truelng": "105.9758633",
     "lat": "12.6869",
     "lng": "88.3875",
-    "tag": "Snack; Machines; ",
+    "tag": "Food; Machinery; ",
     "tags": [
         "VIETNAM"
     ]

@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot No B-42-45, B 33, Bscic, Industrial Area, Tongi, Gazipur",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "23.9010413",
     "truelng": "90.4088223",
     "lat": "-59.6209",
     "lng": "217.5139",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "BANGLADESH"
     ]

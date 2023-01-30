@@ -6,12 +6,12 @@
     "city": "Quang Ngai",
     "category": "VIETNAM",
     "address": "121 Le Trung Dinh Street, Tran Hung Dao Ward",
-    "clusters": "Snack; People outside; ",
+    "clusters": "Food; Outside break; ",
     "truelat": "15.1245871",
     "truelng": "108.8076891",
     "lat": "40.4123",
     "lng": "-67.1398",
-    "tag": "Snack; People outside; ",
+    "tag": "Food; Outside break; ",
     "tags": [
         "VIETNAM"
     ]

@@ -6,12 +6,12 @@
     "city": "Hung Yen",
     "category": "VIETNAM",
     "address": "Giai Pham Village, Giai Pham Ward, Yen My District",
-    "clusters": "Snack; Vehicles; ",
+    "clusters": "Food; Vehicles; ",
     "truelat": "20.935692",
     "truelng": "106.0258126",
     "lat": "11.1526",
     "lng": "-124.7609",
-    "tag": "Snack; Vehicles; ",
+    "tag": "Food; Vehicles; ",
     "tags": [
         "VIETNAM"
     ]

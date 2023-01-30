@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandara, Ps: Kaliakoir",
-    "clusters": "People outside; Woman; Vehicles; ",
+    "clusters": "Outside break; Woman; Vehicles; ",
     "truelat": "24.0478735",
     "truelng": "90.2379523",
     "lat": "-48.4127",
     "lng": "-117.7807",
-    "tag": "People outside; Woman; Vehicles; ",
+    "tag": "Outside break; Woman; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

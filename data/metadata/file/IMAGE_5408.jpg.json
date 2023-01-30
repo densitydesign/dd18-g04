@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "216, Shamim Complex, Sataish Road",
-    "clusters": "Celebrations; People outside; Vehicles; ",
+    "clusters": "Celebrations; Outside break; Vehicles; ",
     "truelat": "23.9209313",
     "truelng": "90.3891927",
     "lat": "-35.2887",
     "lng": "-135.7505",
-    "tag": "Celebrations; People outside; Vehicles; ",
+    "tag": "Celebrations; Outside break; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

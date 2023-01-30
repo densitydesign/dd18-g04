@@ -6,12 +6,12 @@
     "city": "Savar",
     "category": "BANGLADESH",
     "address": "Aboni Knit Wear Limited 169-171 Tetulzhora, Hemayet Pur",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "23.798635",
     "truelng": "90.2680347",
     "lat": "-23.0813",
     "lng": "-211.9411",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

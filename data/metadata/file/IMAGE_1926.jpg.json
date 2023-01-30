@@ -6,12 +6,12 @@
     "city": "Mymensingh",
     "category": "BANGLADESH",
     "address": "Jamirdia, Masterbari, Bhaluka",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "24.2983801",
     "truelng": "90.3883517",
     "lat": "-38.5082",
     "lng": "-198.892",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

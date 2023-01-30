@@ -6,12 +6,12 @@
     "city": "Sakarya",
     "category": "TURKEY",
     "address": "K\u00fc\u00e7\u00fccek \u0130stiklal, 54430 Akyaz\u0131/Sakarya",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "40.683486",
     "truelng": "30.624934",
     "lat": "-199.2818",
     "lng": "166.1579",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "TURKEY"
     ]

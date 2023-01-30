@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "Office; Safety; ",
+    "clusters": "Office; Safety equipment; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "-193.0978",
     "lng": "-41.2653",
-    "tag": "Office; Safety; ",
+    "tag": "Office; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

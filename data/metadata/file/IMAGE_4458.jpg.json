@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Zirani Bazar, Kashimpur, Gazipur",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "23.9937669",
     "truelng": "90.2551098",
     "lat": "-138.8524",
     "lng": "-248.3656",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

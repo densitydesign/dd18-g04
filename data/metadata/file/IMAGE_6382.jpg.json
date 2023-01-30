@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Kurtulus Osb Mah. Prof. Dr. Oktay Sinanoglu Cad. No:2",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "40.2062592",
     "truelng": "29.1912944",
     "lat": "-209.3416",
     "lng": "145.6607",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "TURKEY"
     ]

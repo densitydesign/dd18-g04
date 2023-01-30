@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Nalzani, Chandana, Joydevpur",
-    "clusters": "Machines; Piles; Flip flops; ",
+    "clusters": "Machinery; Stacked items; Flip-flops; ",
     "truelat": "23.9912898",
     "truelng": "90.3805646",
     "lat": "-73.6895",
     "lng": "98.7825",
-    "tag": "Machines; Piles; Flip flops; ",
+    "tag": "Machinery; Stacked items; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Mersin",
     "category": "TURKEY",
     "address": "Karaduvar Mahallesi 6. Cadde, No:1/4 Serbest Bolge",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "36.8136394",
     "truelng": "34.6697018",
     "lat": "16.7918",
     "lng": "-150.3014",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "TURKEY"
     ]

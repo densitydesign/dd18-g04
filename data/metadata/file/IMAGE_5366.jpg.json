@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Plot No: 247, Bhadam, Nishatnagar, Tongi",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.8982092",
     "truelng": "90.3595372",
     "lat": "-189.0435",
     "lng": "155.3189",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

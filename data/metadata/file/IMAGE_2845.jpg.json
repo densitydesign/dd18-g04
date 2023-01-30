@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandara, Ps: Kaliakoir",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.0478735",
     "truelng": "90.2379523",
     "lat": "-188.6077",
     "lng": "173.3975",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

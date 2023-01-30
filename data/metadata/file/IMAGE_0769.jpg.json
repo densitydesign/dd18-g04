@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Bangobondhu Road, Tongabari, Ashulia, Savar",
-    "clusters": "Woman; Machines; Signs; Piles; ",
+    "clusters": "Woman; Machinery; Signs; Stacked items; ",
     "truelat": "23.896017",
     "truelng": "90.3229675",
     "lat": "-113.8619",
     "lng": "98.7452",
-    "tag": "Woman; Machines; Signs; Piles; ",
+    "tag": "Woman; Machinery; Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

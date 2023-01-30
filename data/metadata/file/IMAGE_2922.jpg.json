@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "-198.5426",
     "lng": "138.0948",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

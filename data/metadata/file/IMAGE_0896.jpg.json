@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Bangobondhu Road, Tongabari, Ashulia, Savar",
-    "clusters": "Office; Safety; ",
+    "clusters": "Office; Safety equipment; ",
     "truelat": "23.896017",
     "truelng": "90.3229675",
     "lat": "-197.1424",
     "lng": "-40.7566",
-    "tag": "Office; Safety; ",
+    "tag": "Office; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

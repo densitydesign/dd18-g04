@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Rua Das Giestas, N\u00ba 379, Tamel (S. Pedro Fins)",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "41.6007264",
     "truelng": "-8.634198",
     "lat": "-136.7413",
     "lng": "171.1103",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

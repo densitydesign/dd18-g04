@@ -6,12 +6,12 @@
     "city": "Olgiate Olona",
     "category": "ITALY",
     "address": "Via Isonzo 36",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "45.6357001",
     "truelng": "8.8928626",
     "lat": "-78.1013",
     "lng": "195.855",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "ITALY"
     ]

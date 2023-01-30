@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Pagar, Munno Nagar, Tongi",
-    "clusters": "Snack; Woman; ",
+    "clusters": "Food; Woman; ",
     "truelat": "23.9028244",
     "truelng": "90.4040473",
     "lat": "75.5942",
     "lng": "-1.3231",
-    "tag": "Snack; Woman; ",
+    "tag": "Food; Woman; ",
     "tags": [
         "BANGLADESH"
     ]

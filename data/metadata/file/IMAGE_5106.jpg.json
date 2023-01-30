@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Dhania, Nayerhat,Ashulia,Savar",
-    "clusters": "People outside; Woman; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Woman; Vehicles; Flip-flops; ",
     "truelat": "23.9133119",
     "truelng": "90.2397116",
     "lat": "-44.6162",
     "lng": "-93.1665",
-    "tag": "People outside; Woman; Vehicles; Flip flops; ",
+    "tag": "Outside break; Woman; Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

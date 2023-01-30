@@ -6,12 +6,12 @@
     "city": "Savar",
     "category": "BANGLADESH",
     "address": "Plot # 169-171, Union : Tetulzhora, Hemayetpur.",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "23.798635",
     "truelng": "90.2680347",
     "lat": "-29.5069",
     "lng": "195.542",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "BANGLADESH"
     ]

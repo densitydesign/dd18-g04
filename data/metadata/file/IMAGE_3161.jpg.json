@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # Ht-7 Landhi Industrial Area",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "-36.7433",
     "lng": "196.7285",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # Ht-7 Landhi Industrial Area",
-    "clusters": "People outside; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Vehicles; Flip-flops; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "-39.1743",
     "lng": "-141.4535",
-    "tag": "People outside; Vehicles; Flip flops; ",
+    "tag": "Outside break; Vehicles; Flip-flops; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Kazimkarabekir Mah. Oylumdere Sokak No:10",
-    "clusters": "Celebrations; Snack; Woman; ",
+    "clusters": "Celebrations; Food; Woman; ",
     "truelat": "40.1787113",
     "truelng": "29.1623231",
     "lat": "20.3805",
     "lng": "19.2715",
-    "tag": "Celebrations; Snack; Woman; ",
+    "tag": "Celebrations; Food; Woman; ",
     "tags": [
         "TURKEY"
     ]

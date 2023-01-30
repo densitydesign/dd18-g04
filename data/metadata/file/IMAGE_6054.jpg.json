@@ -6,12 +6,12 @@
     "city": "Faisalabad",
     "category": "PAKISTAN",
     "address": "220.R.B , Pathanwala , Jhang Road",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "31.3880789",
     "truelng": "72.9971792",
     "lat": "-204.7433",
     "lng": "152.0073",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

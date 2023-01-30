@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Kewa, Sreepur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-199.0016",
     "lng": "170.9056",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

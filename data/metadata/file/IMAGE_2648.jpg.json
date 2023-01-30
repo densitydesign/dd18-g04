@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "People outside; Woman; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Woman; Vehicles; Flip-flops; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "-42.7357",
     "lng": "-100.2618",
-    "tag": "People outside; Woman; Vehicles; Flip flops; ",
+    "tag": "Outside break; Woman; Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

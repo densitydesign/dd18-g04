@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Dhania, Nayerhat,Ashulia,Savar",
-    "clusters": "People outside; Signs; ",
+    "clusters": "Outside break; Signs; ",
     "truelat": "23.9133119",
     "truelng": "90.2397116",
     "lat": "-88.416",
     "lng": "-75.2406",
-    "tag": "People outside; Signs; ",
+    "tag": "Outside break; Signs; ",
     "tags": [
         "BANGLADESH"
     ]

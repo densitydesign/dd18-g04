@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot No. 6 & 7 , Sec # 21 Korangi Industrial Area",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.8387414",
     "truelng": "67.1209226",
     "lat": "-191.929",
     "lng": "167.745",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

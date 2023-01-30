@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # A33 & B29, Textile Avenue",
-    "clusters": "Signs; Piles; Safety; ",
+    "clusters": "Signs; Stacked items; Safety equipment; ",
     "truelat": "/",
     "truelng": "/",
     "lat": "-182.9605",
     "lng": "151.9862",
-    "tag": "Signs; Piles; Safety; ",
+    "tag": "Signs; Stacked items; Safety equipment; ",
     "tags": [
         "PAKISTAN"
     ]

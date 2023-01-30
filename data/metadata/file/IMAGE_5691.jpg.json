@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Pagar, Munno Nagar, Tongi",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9028244",
     "truelng": "90.4040473",
     "lat": "-167.9531",
     "lng": "174.0246",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

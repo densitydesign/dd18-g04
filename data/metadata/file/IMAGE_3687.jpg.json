@@ -6,12 +6,12 @@
     "city": "Castiglione Delle Stiviere",
     "category": "ITALY",
     "address": "Via Benaco, 7",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "45.4044932",
     "truelng": "10.5083219",
     "lat": "-144.9581",
     "lng": "-240.9776",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "ITALY"
     ]

@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Z.Ind. Route De Tetouan",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "35.5756837",
     "truelng": "-5.362114",
     "lat": "-125.368",
     "lng": "-243.2374",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "MOROCCO"
     ]

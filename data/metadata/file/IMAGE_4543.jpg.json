@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Dhanua,Nayanpur,Sreepur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-116.491",
     "lng": "178.0594",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

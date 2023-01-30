@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # 24, Sector # 23, Korangi Industrial Area",
-    "clusters": "Celebrations; People outside; ",
+    "clusters": "Celebrations; Outside break; ",
     "truelat": "24.8370944",
     "truelng": "67.1153212",
     "lat": "17.7181",
     "lng": "-58.7884",
-    "tag": "Celebrations; People outside; ",
+    "tag": "Celebrations; Outside break; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Gurgaon",
     "category": "INDIA",
     "address": "Plot # 528, Sector-37, Pace City-Ii",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "28.4306669",
     "truelng": "76.9952672",
     "lat": "-0.6692",
     "lng": "-161.1498",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "INDIA"
     ]

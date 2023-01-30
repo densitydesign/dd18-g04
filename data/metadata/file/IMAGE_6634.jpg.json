@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "E-16, Sector - 63",
-    "clusters": "Machines; Signs; Safety; ",
+    "clusters": "Machinery; Signs; Safety equipment; ",
     "truelat": "28.6310034",
     "truelng": "77.3820045",
     "lat": "-123.2182",
     "lng": "54.5963",
-    "tag": "Machines; Signs; Safety; ",
+    "tag": "Machinery; Signs; Safety equipment; ",
     "tags": [
         "INDIA"
     ]

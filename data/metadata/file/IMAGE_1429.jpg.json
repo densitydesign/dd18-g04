@@ -6,12 +6,12 @@
     "city": "Greater Noida",
     "category": "INDIA",
     "address": "A/ 1-2/9, Site-B, Surajpur Indl. Area",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "28.5126976",
     "truelng": "77.4841858",
     "lat": "-179.4271",
     "lng": "164.5377",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "INDIA"
     ]

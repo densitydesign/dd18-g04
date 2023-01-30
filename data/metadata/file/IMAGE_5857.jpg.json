@@ -6,12 +6,12 @@
     "city": "Istambul",
     "category": "TURKEY",
     "address": "Cihangir Mah.Guvercin Cad., Baha Is Merkezi A-Blok Kat-2 Avcilar",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "41.0007325",
     "truelng": "28.6866989",
     "lat": "-147.073",
     "lng": "-254.6064",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

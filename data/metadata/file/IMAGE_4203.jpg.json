@@ -6,12 +6,12 @@
     "city": "Istambul",
     "category": "TURKEY",
     "address": "Kavakpinar Mh. Abdi Ipekci Cd. No:195 Ustkaynarca - Pendik",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.883516",
     "truelng": "29.28637",
     "lat": "-63.7702",
     "lng": "201.4951",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

@@ -6,12 +6,12 @@
     "city": "Denizli",
     "category": "TURKEY",
     "address": "Organize Sanay B\u00bfLgesi 2.Kisim Bereket 3",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "37.75696",
     "truelng": "29.264256",
     "lat": "-145.5699",
     "lng": "-244.5024",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

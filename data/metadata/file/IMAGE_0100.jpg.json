@@ -6,12 +6,12 @@
     "city": "Menorca",
     "category": "SPAIN",
     "address": "Carrer Sabaters 70",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "40.0094378",
     "truelng": "3.8568826",
     "lat": "74.9195",
     "lng": "12.0315",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "SPAIN"
     ]

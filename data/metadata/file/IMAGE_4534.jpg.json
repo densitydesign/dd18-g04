@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Dhanua,Nayanpur,Sreepur",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-224.8533",
     "lng": "-226.5095",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

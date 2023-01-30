@@ -6,12 +6,12 @@
     "city": "Mersin",
     "category": "TURKEY",
     "address": "Karaduvar Mahallesi 6. Cadde, No:1/4 Serbest Bolge",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "36.8136394",
     "truelng": "34.6697018",
     "lat": "-42.3855",
     "lng": "199.7306",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

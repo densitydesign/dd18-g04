@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Bagan, Trishal, Mymensingh",
-    "clusters": "People outside; Logos; ",
+    "clusters": "Outside break; Factory logos; ",
     "truelat": "24.5816585",
     "truelng": "90.3948498",
     "lat": "-110.0901",
     "lng": "-176.1517",
-    "tag": "People outside; Logos; ",
+    "tag": "Outside break; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # H/2, A-1, Sector-5, Korangi Industrial Area",
-    "clusters": "Machines; Safety; ",
+    "clusters": "Machinery; Safety equipment; ",
     "truelat": "24.8529657",
     "truelng": "67.4255814",
     "lat": "-82.8303",
     "lng": "78.6092",
-    "tag": "Machines; Safety; ",
+    "tag": "Machinery; Safety equipment; ",
     "tags": [
         "PAKISTAN"
     ]

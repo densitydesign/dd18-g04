@@ -6,12 +6,12 @@
     "city": "Zibo",
     "category": "CHINA",
     "address": "No. 109 North Side Of East Songling Road, Zichuan District, Zibo City, Shandong Province",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "36.65202",
     "truelng": "117.92055",
     "lat": "-182.5329",
     "lng": "161.3606",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "CHINA"
     ]

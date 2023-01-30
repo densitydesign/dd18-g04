@@ -6,12 +6,12 @@
     "city": "Faridabad",
     "category": "INDIA",
     "address": "I-59A, Dlf Industrial Area Phase",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.3899664",
     "truelng": "77.2979782",
     "lat": "-34.9236",
     "lng": "192.1571",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

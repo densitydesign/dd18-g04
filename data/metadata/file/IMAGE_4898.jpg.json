@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "217/1, Beribadh, Mohammadpur",
-    "clusters": "Signs; Piles; Safety; ",
+    "clusters": "Signs; Stacked items; Safety equipment; ",
     "truelat": "23.7271117",
     "truelng": "90.3728309",
     "lat": "-182.3699",
     "lng": "79.672",
-    "tag": "Signs; Piles; Safety; ",
+    "tag": "Signs; Stacked items; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

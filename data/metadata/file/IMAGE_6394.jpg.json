@@ -6,12 +6,12 @@
     "city": "Edirne",
     "category": "TURKEY",
     "address": "Kurtbey Koyu Namik Kemal Mevkii Cevreyolu Sok No 1",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "41.1437979",
     "truelng": "26.579851",
     "lat": "-203.8203",
     "lng": "154.3862",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "TURKEY"
     ]

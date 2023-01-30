@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot # 7-10 & 13-16 . Depz Extension Area Ganakbari Savar",
-    "clusters": "People outside; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Vehicles; Flip-flops; ",
     "truelat": "23.9476992",
     "truelng": "90.2746432",
     "lat": "-35.3426",
     "lng": "-148.8832",
-    "tag": "People outside; Vehicles; Flip flops; ",
+    "tag": "Outside break; Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

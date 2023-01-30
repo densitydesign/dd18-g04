@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Purba Narsinghapur, Earpur Union Parishad Road, Ashulia",
-    "clusters": "Vehicles; Signs; Safety; ",
+    "clusters": "Vehicles; Signs; Safety equipment; ",
     "truelat": "23.9331661",
     "truelng": "90.3052096",
     "lat": "-122.0484",
     "lng": "-95.1363",
-    "tag": "Vehicles; Signs; Safety; ",
+    "tag": "Vehicles; Signs; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

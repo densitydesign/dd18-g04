@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Route Des Abattoirs Quartier",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "35.766555794568090",
     "truelng": "-5.7853979",
     "lat": "-139.2413",
     "lng": "-238.0504",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "MOROCCO"
     ]

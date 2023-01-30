@@ -6,12 +6,12 @@
     "city": "Narayanganj",
     "category": "BANGLADESH",
     "address": "Polt # 190-193, Block-B, Bscic Industrial Estate,Fatullah",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "23.6422928",
     "truelng": "90.4816582",
     "lat": "-130.4398",
     "lng": "160.2452",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Yangon",
     "category": "MYANMAR",
     "address": "Shwe Lin Pan Industrial Zone , No.185/25,Hlaing Thar Yar",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "16.840939",
     "truelng": "96.173526",
     "lat": "-204.6874",
     "lng": "171.0661",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "MYANMAR"
     ]

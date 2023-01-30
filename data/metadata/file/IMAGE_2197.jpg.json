@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Shathiabari, Dhaladia, Rajendrapur, Sreepur,, Rajendrapur, Sreepur",
-    "clusters": "Signs; Piles; ",
+    "clusters": "Signs; Stacked items; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-173.7548",
     "lng": "75.4673",
-    "tag": "Signs; Piles; ",
+    "tag": "Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

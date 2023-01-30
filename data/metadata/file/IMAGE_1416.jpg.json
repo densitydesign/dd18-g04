@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Nueva Direcci\u00f3n All\u00e9e 2, Lot N\u00b073, Zi Mghogha, Route De T\u00e9touan",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "35.7456162",
     "truelng": "-5.7830233",
     "lat": "-190.9897",
     "lng": "172.6353",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "MOROCCO"
     ]

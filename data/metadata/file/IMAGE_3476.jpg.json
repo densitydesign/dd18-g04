@@ -6,12 +6,12 @@
     "city": "Lahore",
     "category": "PAKISTAN",
     "address": "22Km Ferozepur Road, Lahore, Punjab",
-    "clusters": "Office; Snack; ",
+    "clusters": "Office; Food; ",
     "truelat": "31.4719689",
     "truelng": "74.3448854",
     "lat": "-93.5269",
     "lng": "-31.5732",
-    "tag": "Office; Snack; ",
+    "tag": "Office; Food; ",
     "tags": [
         "PAKISTAN"
     ]

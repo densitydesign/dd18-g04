@@ -6,12 +6,12 @@
     "city": "Ninh Binh",
     "category": "VIETNAM",
     "address": "Dong Huong Industrial Zone, Dong Huong, Kim Son District, Ninh Binh",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "20.0909133",
     "truelng": "106.1007608",
     "lat": "-131.9822",
     "lng": "180.6741",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "VIETNAM"
     ]

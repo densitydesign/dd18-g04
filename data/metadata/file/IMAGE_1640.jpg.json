@@ -6,12 +6,12 @@
     "city": "Faridabad",
     "category": "INDIA",
     "address": "14/3 Main Mathura Road, Haryana",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "28.449805",
     "truelng": "77.306626",
     "lat": "-40.0054",
     "lng": "-203.5026",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "INDIA"
     ]

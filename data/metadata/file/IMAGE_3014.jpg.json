@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "People outside; Children; ",
+    "clusters": "Outside break; Children; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "32.9167",
     "lng": "-107.3589",
-    "tag": "People outside; Children; ",
+    "tag": "Outside break; Children; ",
     "tags": [
         "BANGLADESH"
     ]

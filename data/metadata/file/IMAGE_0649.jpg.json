@@ -6,12 +6,12 @@
     "city": "Savar",
     "category": "BANGLADESH",
     "address": "Plot # 169-171, Union : Tetulzhora, Hemayetpur.",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "23.798635",
     "truelng": "90.2680347",
     "lat": "22.1933",
     "lng": "-161.9467",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "BANGLADESH"
     ]

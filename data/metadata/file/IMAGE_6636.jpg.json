@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "E-16, Sector - 63",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "28.6310034",
     "truelng": "77.3820045",
     "lat": "-187.5",
     "lng": "178.7836",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "INDIA"
     ]

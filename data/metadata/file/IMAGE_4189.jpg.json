@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "B-13, Sector-59",
-    "clusters": "Machines; Signs; Piles; ",
+    "clusters": "Machinery; Signs; Stacked items; ",
     "truelat": "28.60673549400553",
     "truelng": "77.36376067116451",
     "lat": "-140.1398",
     "lng": "101.5661",
-    "tag": "Machines; Signs; Piles; ",
+    "tag": "Machinery; Signs; Stacked items; ",
     "tags": [
         "INDIA"
     ]

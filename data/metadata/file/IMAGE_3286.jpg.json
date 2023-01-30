@@ -6,12 +6,12 @@
     "city": "Ludhiana",
     "category": "INDIA",
     "address": "Airport Road, Uchi Mangli ,Sahnewal",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "30.8642019",
     "truelng": "75.9768062",
     "lat": "-112.5352",
     "lng": "164.1886",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "INDIA"
     ]

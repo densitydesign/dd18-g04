@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "2 Dhaka - Mymensingh Hwy",
-    "clusters": "Machines; Signs; Piles; ",
+    "clusters": "Machinery; Signs; Stacked items; ",
     "truelat": "23.9921795",
     "truelng": "90.3844276",
     "lat": "-145.4334",
     "lng": "109.1709",
-    "tag": "Machines; Signs; Piles; ",
+    "tag": "Machinery; Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Izmir",
     "category": "TURKEY",
     "address": "10033 Sk No:3, 35620 Aosb/\u00c7i\u011fli",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "38.4819006",
     "truelng": "27.0475492",
     "lat": "-20.1565",
     "lng": "191.2423",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

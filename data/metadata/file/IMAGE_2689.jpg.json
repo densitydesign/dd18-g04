@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "Office; Signs; Piles; ",
+    "clusters": "Office; Signs; Stacked items; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "-208.3665",
     "lng": "42.0675",
-    "tag": "Office; Signs; Piles; ",
+    "tag": "Office; Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

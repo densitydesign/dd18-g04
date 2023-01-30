@@ -6,12 +6,12 @@
     "city": "Kastamonu",
     "category": "TURKEY",
     "address": "Ye\u015fil\u00f6z M\u00fccavir Mah. Abdurrahmanpa\u015fa Sokak, End\u00fcstri Tesisi No:169",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "41.97725",
     "truelng": "33.759358",
     "lat": "-133.3345",
     "lng": "-236.7592",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

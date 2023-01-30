@@ -6,12 +6,12 @@
     "city": "Lahore",
     "category": "PAKISTAN",
     "address": "21 Km Off Ferozepur Road, Near Rohi Nala",
-    "clusters": "Office; Machines; ",
+    "clusters": "Office; Machinery; ",
     "truelat": "31.4719689",
     "truelng": "74.3448854",
     "lat": "-169.0892",
     "lng": "64.4501",
-    "tag": "Office; Machines; ",
+    "tag": "Office; Machinery; ",
     "tags": [
         "PAKISTAN"
     ]

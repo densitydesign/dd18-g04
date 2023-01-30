@@ -6,12 +6,12 @@
     "city": "New Delhi",
     "category": "INDIA",
     "address": "B-123,Okha Industrial Area,Phase-1",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "28.5388479",
     "truelng": "77.2753728",
     "lat": "-204.6304",
     "lng": "142.605",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Choydana, National University",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "23.9504063",
     "truelng": "90.380132",
     "lat": "-88.0283",
     "lng": "-200.4043",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

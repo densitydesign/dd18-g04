@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Choydana, National University",
-    "clusters": "Vehicles; Flip flops; ",
+    "clusters": "Vehicles; Flip-flops; ",
     "truelat": "23.9504063",
     "truelng": "90.380132",
     "lat": "-51.6403",
     "lng": "-144.4518",
-    "tag": "Vehicles; Flip flops; ",
+    "tag": "Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

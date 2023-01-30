@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Purba Narsinghapur, Earpur Union Parishad Road, Ashulia",
-    "clusters": "Machines; Piles; Flip flops; ",
+    "clusters": "Machinery; Stacked items; Flip-flops; ",
     "truelat": "23.9331661",
     "truelng": "90.3052096",
     "lat": "-80.9761",
     "lng": "99.4033",
-    "tag": "Machines; Piles; Flip flops; ",
+    "tag": "Machinery; Stacked items; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

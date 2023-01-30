@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "H.T/11 Landhi Industrial Area",
-    "clusters": "Children; Vehicles; Logos; ",
+    "clusters": "Children; Vehicles; Factory logos; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "-75.2673",
     "lng": "-189.5155",
-    "tag": "Children; Vehicles; Logos; ",
+    "tag": "Children; Vehicles; Factory logos; ",
     "tags": [
         "PAKISTAN"
     ]

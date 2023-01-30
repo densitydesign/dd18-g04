@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "C-69, Hosiery Complex, Phase -2, Gautam Budha Nagar",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "28.5316554",
     "truelng": "77.4075744",
     "lat": "-134.5881",
     "lng": "173.3888",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Felgueiras",
     "category": "PORTUGAL",
     "address": "Complexo Industrial Da Longra",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "41.3330765",
     "truelng": "-8.223417",
     "lat": "-91.6824",
     "lng": "-199.9742",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "PORTUGAL"
     ]

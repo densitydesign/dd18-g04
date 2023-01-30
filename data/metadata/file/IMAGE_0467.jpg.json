@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Choydana, National University",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9504063",
     "truelng": "90.380132",
     "lat": "-204.3489",
     "lng": "137.6039",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

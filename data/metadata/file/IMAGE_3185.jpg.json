@@ -6,12 +6,12 @@
     "city": "Hung Yen",
     "category": "VIETNAM",
     "address": "Giai Pham Village, Giai Pham Ward, Yen My District",
-    "clusters": "Woman; Machines; Piles; ",
+    "clusters": "Woman; Machinery; Stacked items; ",
     "truelat": "20.935692",
     "truelng": "106.0258126",
     "lat": "-87.9034",
     "lng": "119.5175",
-    "tag": "Woman; Machines; Piles; ",
+    "tag": "Woman; Machinery; Stacked items; ",
     "tags": [
         "VIETNAM"
     ]

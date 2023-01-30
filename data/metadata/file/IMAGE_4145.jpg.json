@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "235/236 East Chandura Shafipur Kaliakoir Gazipur",
-    "clusters": "Machines; Signs; Safety; ",
+    "clusters": "Machinery; Signs; Safety equipment; ",
     "truelat": "24.069452",
     "truelng": "90.222418",
     "lat": "-122.2295",
     "lng": "58.0568",
-    "tag": "Machines; Signs; Safety; ",
+    "tag": "Machinery; Signs; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "Office; Celebrations; Snack; ",
+    "clusters": "Office; Celebrations; Food; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "-58.6743",
     "lng": "-15.0373",
-    "tag": "Office; Celebrations; Snack; ",
+    "tag": "Office; Celebrations; Food; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot 4, Sector 25, Korangi Industrial Area, Korangi Indusrtial Area",
-    "clusters": "Celebrations; Piles; ",
+    "clusters": "Celebrations; Stacked items; ",
     "truelat": "24.8418235",
     "truelng": "67.1389701",
     "lat": "-74.6666",
     "lng": "75.0684",
-    "tag": "Celebrations; Piles; ",
+    "tag": "Celebrations; Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

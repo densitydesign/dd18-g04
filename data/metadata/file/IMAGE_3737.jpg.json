@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Demirtas Dulumpinar Osb. Kartopu Sokak",
-    "clusters": "People outside; Children; Vehicles; ",
+    "clusters": "Outside break; Children; Vehicles; ",
     "truelat": "40.268095",
     "truelng": "29.0585252",
     "lat": "-8.5002",
     "lng": "-176.2695",
-    "tag": "People outside; Children; Vehicles; ",
+    "tag": "Outside break; Children; Vehicles; ",
     "tags": [
         "TURKEY"
     ]

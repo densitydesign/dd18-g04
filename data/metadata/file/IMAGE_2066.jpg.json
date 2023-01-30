@@ -6,12 +6,12 @@
     "city": "Hai Phong",
     "category": "VIETNAM",
     "address": "Thanh Khe, Thanh Luong, Vinh Bao,",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "20.6406567",
     "truelng": "106.4891799",
     "lat": "-135.3894",
     "lng": "-244.8764",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "VIETNAM"
     ]

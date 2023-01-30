@@ -6,12 +6,12 @@
     "city": "Mymensingh",
     "category": "BANGLADESH",
     "address": "Jamirdia, Masterbari, Bhaluka",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "24.2983801",
     "truelng": "90.3883517",
     "lat": "-115.1443",
     "lng": "156.6846",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

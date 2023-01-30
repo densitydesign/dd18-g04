@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "Vehicles; Safety; ",
+    "clusters": "Vehicles; Safety equipment; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "-102.7219",
     "lng": "-138.0056",
-    "tag": "Vehicles; Safety; ",
+    "tag": "Vehicles; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

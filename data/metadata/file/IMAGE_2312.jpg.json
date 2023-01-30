@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Shathiabari, Dhaladia, Rajendrapur, Sreepur,, Rajendrapur, Sreepur",
-    "clusters": "Office; Snack; ",
+    "clusters": "Office; Food; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-96.9367",
     "lng": "-36.3474",
-    "tag": "Office; Snack; ",
+    "tag": "Office; Food; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-11, Epip, Site-5, Kasna Greater",
-    "clusters": "Vehicles; Logos; Signs; ",
+    "clusters": "Vehicles; Factory logos; Signs; ",
     "truelat": "28.4246933",
     "truelng": "77.5505302",
     "lat": "-147.1922",
     "lng": "-160.7664",
-    "tag": "Vehicles; Logos; Signs; ",
+    "tag": "Vehicles; Factory logos; Signs; ",
     "tags": [
         "INDIA"
     ]

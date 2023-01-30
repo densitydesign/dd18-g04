@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Dhania, Nayerhat,Ashulia,Savar",
-    "clusters": "Vehicles; Logos; Signs; ",
+    "clusters": "Vehicles; Factory logos; Signs; ",
     "truelat": "23.9133119",
     "truelng": "90.2397116",
     "lat": "-149.7428",
     "lng": "-154.1429",
-    "tag": "Vehicles; Logos; Signs; ",
+    "tag": "Vehicles; Factory logos; Signs; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Faisalabad",
     "category": "PAKISTAN",
     "address": "220.R.B , Pathanwala , Jhang Road",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "31.3880789",
     "truelng": "72.9971792",
     "lat": "-17.7794",
     "lng": "180.1313",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "PAKISTAN"
     ]

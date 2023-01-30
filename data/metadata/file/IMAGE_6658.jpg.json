@@ -6,12 +6,12 @@
     "city": "Guimar\u00e3es",
     "category": "PORTUGAL",
     "address": "Rua De Agras, Brito",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "41.4500741",
     "truelng": "-8.3751294",
     "lat": "-192.3676",
     "lng": "179.7551",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "PORTUGAL"
     ]

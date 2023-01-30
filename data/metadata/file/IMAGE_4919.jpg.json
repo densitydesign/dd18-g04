@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # A33 & B29, Textile Avenue",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "/",
     "truelng": "/",
     "lat": "29.496",
     "lng": "-152.3241",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "PAKISTAN"
     ]

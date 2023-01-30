@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Dhanua,Nayanpur,Sreepur",
-    "clusters": "Woman; Machines; Piles; ",
+    "clusters": "Woman; Machinery; Stacked items; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-117.3468",
     "lng": "172.0345",
-    "tag": "Woman; Machines; Piles; ",
+    "tag": "Woman; Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

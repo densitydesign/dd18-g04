@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Dosab Mustafa Karaer Cad. No:2/4",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.2678424",
     "truelng": "29.0778429",
     "lat": "-29.35",
     "lng": "181.8282",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

@@ -6,12 +6,12 @@
     "city": "Izmir",
     "category": "TURKEY",
     "address": "10017 Sk No:3, 35620 Aosb/\u00c7i\u011fli",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "38.4819006",
     "truelng": "27.0475492",
     "lat": "25.9686",
     "lng": "-141.2246",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "TURKEY"
     ]

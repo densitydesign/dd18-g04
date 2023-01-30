@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # 24, Sector # 23, Korangi Industrial Area",
-    "clusters": "Office; Logos; ",
+    "clusters": "Office; Factory logos; ",
     "truelat": "24.8370944",
     "truelng": "67.1153212",
     "lat": "-231.4499",
     "lng": "-136.3628",
-    "tag": "Office; Logos; ",
+    "tag": "Office; Factory logos; ",
     "tags": [
         "PAKISTAN"
     ]

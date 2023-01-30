@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Ilot N4,Lot.N1 Z.Fr.D`Export",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "35.72483492002452",
     "truelng": "-5.90238204639930",
     "lat": "64.5001",
     "lng": "11.6571",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "MOROCCO"
     ]

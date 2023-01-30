@@ -6,12 +6,12 @@
     "city": "Uttar Pradesh",
     "category": "INDIA",
     "address": "C-28 Sector 59 Noida",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "28.6075627",
     "truelng": "77.3683319",
     "lat": "68.0808",
     "lng": "-0.6638",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "INDIA"
     ]

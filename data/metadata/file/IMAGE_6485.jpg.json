@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Ambag, Post Office: Nilnagar",
-    "clusters": "People outside; Woman; Vehicles; ",
+    "clusters": "Outside break; Woman; Vehicles; ",
     "truelat": "24.0107114",
     "truelng": "90.3236931",
     "lat": "-46.3224",
     "lng": "-122.5522",
-    "tag": "People outside; Woman; Vehicles; ",
+    "tag": "Outside break; Woman; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

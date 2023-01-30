@@ -6,12 +6,12 @@
     "city": "Edirne",
     "category": "TURKEY",
     "address": "Kocasinan Mh E-5 Karayolu Cd No:87",
-    "clusters": "Woman; Piles; ",
+    "clusters": "Woman; Stacked items; ",
     "truelat": "40.9964696",
     "truelng": "28.7040485",
     "lat": "-97.753",
     "lng": "90.8956",
-    "tag": "Woman; Piles; ",
+    "tag": "Woman; Stacked items; ",
     "tags": [
         "TURKEY"
     ]

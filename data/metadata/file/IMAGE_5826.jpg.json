@@ -6,12 +6,12 @@
     "city": "Istambul",
     "category": "TURKEY",
     "address": "Maltepe Mah. Davutpasa Cad. Gurun Ckmazi 5",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "41.0249049",
     "truelng": "28.9091914",
     "lat": "-148.5533",
     "lng": "-245.6225",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

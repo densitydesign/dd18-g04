@@ -6,12 +6,12 @@
     "city": "Haryana",
     "category": "INDIA",
     "address": "Plot No. 11,Sector-7,Imt Manesar , Gurgaon",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.3752154",
     "truelng": "76.9120529",
     "lat": "-38.1328",
     "lng": "183.6883",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

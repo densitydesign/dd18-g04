@@ -6,12 +6,12 @@
     "city": "Sakarya",
     "category": "TURKEY",
     "address": "K\u00fc\u00e7\u00fccek \u0130stiklal, 54430 Akyaz\u0131/Sakarya",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.683486",
     "truelng": "30.624934",
     "lat": "-35.5432",
     "lng": "187.9774",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

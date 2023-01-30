@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # A33 & B29, Textile Avenue",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "/",
     "truelng": "/",
     "lat": "-45.9372",
     "lng": "191.6498",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "C-85, Hosiery Complex Phase- 2",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "28.5316554",
     "truelng": "77.4075744",
     "lat": "-98.7841",
     "lng": "-202.1989",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "INDIA"
     ]

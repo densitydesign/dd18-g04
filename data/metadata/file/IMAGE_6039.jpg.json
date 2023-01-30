@@ -6,12 +6,12 @@
     "city": "Bagcilar",
     "category": "TURKEY",
     "address": "Mahmutbey Mah. Tasocagi Cad. 2661 Sok. No:10/11 Bagcilar Istanbul",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "41.0518715",
     "truelng": "28.8188948",
     "lat": "71.7766",
     "lng": "7.7775",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "TURKEY"
     ]

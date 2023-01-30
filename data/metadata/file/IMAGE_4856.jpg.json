@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-67, Sector-63",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "28.630932",
     "truelng": "77.3825152",
     "lat": "13.5531",
     "lng": "-163.1577",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "INDIA"
     ]

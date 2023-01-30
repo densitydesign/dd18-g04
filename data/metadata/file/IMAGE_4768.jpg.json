@@ -6,12 +6,12 @@
     "city": "Iasi",
     "category": "ROMANIA",
     "address": "Cuza Voda Street N\u00ba42, Targu Frumos",
-    "clusters": "People outside; Woman; ",
+    "clusters": "Outside break; Woman; ",
     "truelat": "47.2095953",
     "truelng": "27.0134244",
     "lat": "-9.9565",
     "lng": "-47.2756",
-    "tag": "People outside; Woman; ",
+    "tag": "Outside break; Woman; ",
     "tags": [
         "ROMANIA"
     ]

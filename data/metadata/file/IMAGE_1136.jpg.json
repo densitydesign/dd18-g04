@@ -6,12 +6,12 @@
     "city": "Haryana",
     "category": "INDIA",
     "address": "102, Dlf Industrial Estate Phase-1",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "28.4546419",
     "truelng": "77.3139712",
     "lat": "-128.7758",
     "lng": "172.6391",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "INDIA"
     ]

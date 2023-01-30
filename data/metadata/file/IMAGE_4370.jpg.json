@@ -6,12 +6,12 @@
     "city": "Ho Chi Minh",
     "category": "VIETNAM",
     "address": "Thanh Tan Industrial Cluster, Thanh Tan Commune, Kien Xuong District, Thai Binh Province, Viet Nam",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "20.4344216",
     "truelng": "106.4258643",
     "lat": "-136.2815",
     "lng": "-237.3138",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "VIETNAM"
     ]

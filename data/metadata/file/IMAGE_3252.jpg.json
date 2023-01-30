@@ -6,12 +6,12 @@
     "city": "Gurugram",
     "category": "INDIA",
     "address": "953/1 38Th Milstone Behrampur Road",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.4242072",
     "truelng": "77.0111882",
     "lat": "-32.1327",
     "lng": "185.757",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Mersin",
     "category": "TURKEY",
     "address": "Karaduvar Mahallesi 6. Cadde, No:1/4 Serbest Bolge",
-    "clusters": "Safety; ",
+    "clusters": "Safety equipment; ",
     "truelat": "36.8136394",
     "truelng": "34.6697018",
     "lat": "-112.1356",
     "lng": "-26.6208",
-    "tag": "Safety; ",
+    "tag": "Safety equipment; ",
     "tags": [
         "TURKEY"
     ]

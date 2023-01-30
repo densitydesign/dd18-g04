@@ -6,12 +6,12 @@
     "city": "Phu Binh",
     "category": "VIETNAM",
     "address": "Kha Son Industrial Park, Kha Son Hamlet",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "21.4299699",
     "truelng": "105.9758633",
     "lat": "-131.3219",
     "lng": "-249.0324",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "VIETNAM"
     ]

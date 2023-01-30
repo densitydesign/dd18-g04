@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "25, Vadam, Uttarpara, Tongi",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9010413",
     "truelng": "90.4088223",
     "lat": "-207.7332",
     "lng": "151.3641",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

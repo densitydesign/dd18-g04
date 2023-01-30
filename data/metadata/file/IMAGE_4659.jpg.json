@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Khaja Road, Kulgaon, Jalalabad",
-    "clusters": "Woman; Machines; Piles; ",
+    "clusters": "Woman; Machinery; Stacked items; ",
     "truelat": "22.4038074",
     "truelng": "91.8254921",
     "lat": "-37.4318",
     "lng": "209.6534",
-    "tag": "Woman; Machines; Piles; ",
+    "tag": "Woman; Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

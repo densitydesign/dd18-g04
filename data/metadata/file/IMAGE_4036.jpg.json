@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "235/236 East Chandura Shafipur Kaliakoir Gazipur",
-    "clusters": "Machines; Piles; Flip flops; ",
+    "clusters": "Machinery; Stacked items; Flip-flops; ",
     "truelat": "24.069452",
     "truelng": "90.222418",
     "lat": "-77.1668",
     "lng": "99.7097",
-    "tag": "Machines; Piles; Flip flops; ",
+    "tag": "Machinery; Stacked items; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

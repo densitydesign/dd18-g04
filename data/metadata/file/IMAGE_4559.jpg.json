@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Dhanua,Nayanpur,Sreepur",
-    "clusters": "People outside; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Vehicles; Flip-flops; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "-53.6989",
     "lng": "-141.6366",
-    "tag": "People outside; Vehicles; Flip flops; ",
+    "tag": "Outside break; Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

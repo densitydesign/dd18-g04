@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "H.T/11 Landhi Industrial Area",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "-191.8215",
     "lng": "141.264",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

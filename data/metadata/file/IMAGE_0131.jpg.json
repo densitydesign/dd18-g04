@@ -6,12 +6,12 @@
     "city": "Izmir",
     "category": "TURKEY",
     "address": "10025 Sk No:3, 35620 Aosb/\u00c7i\u011fli",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "38.4819006",
     "truelng": "27.0475492",
     "lat": "-125.3994",
     "lng": "-246.9469",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

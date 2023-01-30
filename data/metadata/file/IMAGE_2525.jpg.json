@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Bade Kalmeshwar, Board Bazar",
-    "clusters": "Vehicles; Logos; Signs; ",
+    "clusters": "Vehicles; Factory logos; Signs; ",
     "truelat": "23.9446619",
     "truelng": "90.3842123",
     "lat": "-145.1708",
     "lng": "-154.3097",
-    "tag": "Vehicles; Logos; Signs; ",
+    "tag": "Vehicles; Factory logos; Signs; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Mawna, Sreepur",
-    "clusters": "People outside; Children; Vehicles; Signs; ",
+    "clusters": "Outside break; Children; Vehicles; Signs; ",
     "truelat": "24.2185381",
     "truelng": "90.4127235",
     "lat": "-57.2549",
     "lng": "-122.5573",
-    "tag": "People outside; Children; Vehicles; Signs; ",
+    "tag": "Outside break; Children; Vehicles; Signs; ",
     "tags": [
         "BANGLADESH"
     ]

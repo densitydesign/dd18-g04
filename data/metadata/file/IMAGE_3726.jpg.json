@@ -6,12 +6,12 @@
     "city": "Faisalabad",
     "category": "PAKISTAN",
     "address": "Near Crescent Sugar Mills Jhumra Road",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "31.5742621",
     "truelng": "73.19023",
     "lat": "-27.5172",
     "lng": "-199.0289",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "PAKISTAN"
     ]

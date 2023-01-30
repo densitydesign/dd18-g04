@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "235/236 East Chandura Shafipur Kaliakoir Gazipur",
-    "clusters": "People outside; Vehicles; Flip flops; ",
+    "clusters": "Outside break; Vehicles; Flip-flops; ",
     "truelat": "24.069452",
     "truelng": "90.222418",
     "lat": "-44.0789",
     "lng": "-144.2631",
-    "tag": "People outside; Vehicles; Flip flops; ",
+    "tag": "Outside break; Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

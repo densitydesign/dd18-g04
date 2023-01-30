@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Durgapur Ashulia Savar",
-    "clusters": "People outside; Vehicles; Signs; Flip flops; ",
+    "clusters": "Outside break; Vehicles; Signs; Flip-flops; ",
     "truelat": "23.8991129",
     "truelng": "90.3253311",
     "lat": "-70.9889",
     "lng": "-105.5223",
-    "tag": "People outside; Vehicles; Signs; Flip flops; ",
+    "tag": "Outside break; Vehicles; Signs; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

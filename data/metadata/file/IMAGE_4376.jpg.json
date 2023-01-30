@@ -6,12 +6,12 @@
     "city": "Tangier",
     "category": "MOROCCO",
     "address": "Zone Industriel Al Majd Lot 841",
-    "clusters": "Woman; Machines; ",
+    "clusters": "Woman; Machinery; ",
     "truelat": "34.0487252",
     "truelng": "-118.2555523",
     "lat": "-37.8534",
     "lng": "99.8491",
-    "tag": "Woman; Machines; ",
+    "tag": "Woman; Machinery; ",
     "tags": [
         "MOROCCO"
     ]

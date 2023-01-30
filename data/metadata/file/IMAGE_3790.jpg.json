@@ -6,12 +6,12 @@
     "city": "Mersin",
     "category": "TURKEY",
     "address": "Karaduvar Mahallesi 6. Cadde, No:1/4 Serbest Bolge",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "36.8136394",
     "truelng": "34.6697018",
     "lat": "64.5174",
     "lng": "5.8703",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "TURKEY"
     ]

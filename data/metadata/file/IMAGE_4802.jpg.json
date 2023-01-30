@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Plot # 21-26 (Part), Sector #3, Road # 04",
-    "clusters": "Celebrations; Machines; Piles; ",
+    "clusters": "Celebrations; Machinery; Stacked items; ",
     "truelat": "22.356851",
     "truelng": "91.7831819",
     "lat": "-7.5387",
     "lng": "87.2953",
-    "tag": "Celebrations; Machines; Piles; ",
+    "tag": "Celebrations; Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

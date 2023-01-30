@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot # 7-10 & 13-16 . Depz Extension Area Ganakbari Savar",
-    "clusters": "Safety; ",
+    "clusters": "Safety equipment; ",
     "truelat": "23.9476992",
     "truelng": "90.2746432",
     "lat": "-122.6794",
     "lng": "-29.1367",
-    "tag": "Safety; ",
+    "tag": "Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

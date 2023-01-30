@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandra, Polli Biddyut, Kaliakior",
-    "clusters": "People outside; Children; ",
+    "clusters": "Outside break; Children; ",
     "truelat": "24.0378585",
     "truelng": "90.2563548",
     "lat": "28.6046",
     "lng": "-112.7458",
-    "tag": "People outside; Children; ",
+    "tag": "Outside break; Children; ",
     "tags": [
         "BANGLADESH"
     ]

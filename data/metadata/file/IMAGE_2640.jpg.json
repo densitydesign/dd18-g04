@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "70.6511",
     "lng": "-1.7543",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Lahore",
     "category": "PAKISTAN",
     "address": "3.8 Km Rohi Nala, Off 22 Km Feroz Pur Road, Moza Kacha Tiba",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "31.3856468",
     "truelng": "74.3630189",
     "lat": "75.4218",
     "lng": "1.4745",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "PAKISTAN"
     ]

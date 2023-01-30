@@ -6,12 +6,12 @@
     "city": "Edirne",
     "category": "TURKEY",
     "address": "Kocasinan Mh E-5 Karayolu Cd No:87",
-    "clusters": "Woman; Machines; ",
+    "clusters": "Woman; Machinery; ",
     "truelat": "40.9964696",
     "truelng": "28.7040485",
     "lat": "-28.4937",
     "lng": "103.2803",
-    "tag": "Woman; Machines; ",
+    "tag": "Woman; Machinery; ",
     "tags": [
         "TURKEY"
     ]

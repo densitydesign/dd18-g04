@@ -6,12 +6,12 @@
     "city": "Meknes",
     "category": "MOROCCO",
     "address": "Lot 100, Zi Mejjat",
-    "clusters": "Machines; Signs; Safety; ",
+    "clusters": "Machinery; Signs; Safety equipment; ",
     "truelat": "31.3626983",
     "truelng": "-8.5116903",
     "lat": "-115.3614",
     "lng": "57.7757",
-    "tag": "Machines; Signs; Safety; ",
+    "tag": "Machinery; Signs; Safety equipment; ",
     "tags": [
         "MOROCCO"
     ]

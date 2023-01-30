@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot 19/1, Sector 17 , Korangi Industrial Area",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "24.8430476",
     "truelng": "67.139486",
     "lat": "-97.616",
     "lng": "202.4043",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-158,Sector-63",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "28.6307605",
     "truelng": "77.3953063",
     "lat": "-51.9119",
     "lng": "229.403",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "INDIA"
     ]

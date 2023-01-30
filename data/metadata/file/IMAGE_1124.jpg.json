@@ -6,12 +6,12 @@
     "city": "Gurgaon",
     "category": "INDIA",
     "address": "189, Udyog Vihar",
-    "clusters": "Woman; Machines; Signs; ",
+    "clusters": "Woman; Machinery; Signs; ",
     "truelat": "28.4984141",
     "truelng": "77.0849249",
     "lat": "-96.0705",
     "lng": "78.3599",
-    "tag": "Woman; Machines; Signs; ",
+    "tag": "Woman; Machinery; Signs; ",
     "tags": [
         "INDIA"
     ]

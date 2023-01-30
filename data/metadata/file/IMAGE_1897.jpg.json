@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Mawna, Sreepur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "24.2185381",
     "truelng": "90.4127235",
     "lat": "-191.5738",
     "lng": "154.8361",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

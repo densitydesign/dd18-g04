@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # 34, Sector 28, Korangi Industrial Area",
-    "clusters": "Office; Safety; ",
+    "clusters": "Office; Safety equipment; ",
     "truelat": "24.8387414",
     "truelng": "67.1209226",
     "lat": "-271.1994",
     "lng": "-72.7431",
-    "tag": "Office; Safety; ",
+    "tag": "Office; Safety equipment; ",
     "tags": [
         "PAKISTAN"
     ]

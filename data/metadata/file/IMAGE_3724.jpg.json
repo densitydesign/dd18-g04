@@ -6,12 +6,12 @@
     "city": "Faisalabad",
     "category": "PAKISTAN",
     "address": "Near Crescent Sugar Mills Jhumra Road",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "31.5742621",
     "truelng": "73.19023",
     "lat": "-111.4388",
     "lng": "167.1687",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

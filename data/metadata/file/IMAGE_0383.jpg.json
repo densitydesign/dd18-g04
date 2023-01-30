@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Mouza-Baroivhog, Bscic Industrial Area, Enayetnagar, Fatullah Narayanganj",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "23.6422928",
     "truelng": "90.4816582",
     "lat": "-32.339",
     "lng": "-203.3242",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]

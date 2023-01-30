@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "C.S- 576, Baniarchala(Bagher Bazar)",
-    "clusters": "Snack; Woman; ",
+    "clusters": "Food; Woman; ",
     "truelat": "24.1701145",
     "truelng": "90.4195876",
     "lat": "22.2666",
     "lng": "31.9391",
-    "tag": "Snack; Woman; ",
+    "tag": "Food; Woman; ",
     "tags": [
         "BANGLADESH"
     ]

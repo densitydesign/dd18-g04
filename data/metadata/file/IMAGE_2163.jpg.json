@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot# Survey 183, 184, 185 & 186, Naclas 90, Deh, Khonto, Main National Highway, Landhi",
-    "clusters": "Safety; ",
+    "clusters": "Safety equipment; ",
     "truelat": "24.8555677",
     "truelng": "67.2118619",
     "lat": "-124.9502",
     "lng": "-23.6955",
-    "tag": "Safety; ",
+    "tag": "Safety equipment; ",
     "tags": [
         "PAKISTAN"
     ]

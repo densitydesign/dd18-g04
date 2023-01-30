@@ -6,12 +6,12 @@
     "city": "Tokat",
     "category": "TURKEY",
     "address": "Kelkit Mah. Beylikbuku Cad. No:9-11-13 Organize San. Bolgesi Erbaa",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.672726",
     "truelng": "36.571247",
     "lat": "-46.5303",
     "lng": "227.628",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

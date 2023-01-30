@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "C-131, Sector-63",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.630925",
     "truelng": "77.3821885",
     "lat": "-96.3947",
     "lng": "195.8033",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Plot # 21-26 (Part), Sector #3, Road # 04",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "22.356851",
     "truelng": "91.7831819",
     "lat": "0",
     "lng": "0",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandra, Polli Biddyut, Kaliakior",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.0378585",
     "truelng": "90.2563548",
     "lat": "67.6227",
     "lng": "1.9769",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

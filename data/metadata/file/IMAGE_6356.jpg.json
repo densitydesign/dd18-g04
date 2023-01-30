@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Nalzani, Chandana, Joydevpur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9912898",
     "truelng": "90.3805646",
     "lat": "-207.7453",
     "lng": "142.8841",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

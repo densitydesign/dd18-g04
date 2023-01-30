@@ -6,12 +6,12 @@
     "city": "Istambul",
     "category": "TURKEY",
     "address": "Teyfikbey Mah.Dr.Ali Demir Cad., No:51/2317 Sokak",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "41.0069284",
     "truelng": "28.8066614",
     "lat": "62.6633",
     "lng": "13.8914",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "TURKEY"
     ]

@@ -6,12 +6,12 @@
     "city": "Casablanca",
     "category": "MOROCCO",
     "address": "Lot 140, Zone Industrielle Moulay Rchid",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "33.5664674",
     "truelng": "-7.5233705",
     "lat": "-127.2843",
     "lng": "-253.6718",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "MOROCCO"
     ]

@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "B-49, 2Nd Floor, Sector 88 Uttar Pradesh",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "28.5326051",
     "truelng": "77.4257319",
     "lat": "-223.4673",
     "lng": "-206.6475",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "INDIA"
     ]

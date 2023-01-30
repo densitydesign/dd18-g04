@@ -6,12 +6,12 @@
     "city": "Bagcilar",
     "category": "TURKEY",
     "address": "Mahmutbey Mah. Tasocagi Cad. 2661 Sok. No:10/11 Bagcilar Istanbul",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "41.0518715",
     "truelng": "28.8188948",
     "lat": "-147.6801",
     "lng": "-242.2028",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "TURKEY"
     ]

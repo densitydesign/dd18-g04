@@ -6,12 +6,12 @@
     "city": "Giza",
     "category": "EGYPT",
     "address": "Kafr Hakim, Kerdasa Road, Embaba",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "30.0815975",
     "truelng": "31.1950354",
     "lat": "-27.5331",
     "lng": "186.4445",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "EGYPT"
     ]

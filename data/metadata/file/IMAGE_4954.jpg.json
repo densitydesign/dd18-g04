@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-148,Hosiery Complex,Phase Ii, Gautambudha Nagar",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.5316554",
     "truelng": "77.4075744",
     "lat": "-22.5788",
     "lng": "175.3389",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

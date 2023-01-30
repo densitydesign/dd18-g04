@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Khaja Road, Kulgaon, Jalalabad",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "22.4038074",
     "truelng": "91.8254921",
     "lat": "-130.0124",
     "lng": "-243.4841",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

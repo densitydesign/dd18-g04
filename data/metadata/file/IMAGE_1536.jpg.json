@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Bagan, Trishal, Mymensingh",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.5816585",
     "truelng": "90.3948498",
     "lat": "73.419",
     "lng": "-5.9407",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

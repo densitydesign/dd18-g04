@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # Ht-7 Landhi Industrial Area",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "0.6059",
     "lng": "-153.8986",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "PAKISTAN"
     ]

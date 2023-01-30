@@ -6,12 +6,12 @@
     "city": "Kompong",
     "category": "CAMBODIA",
     "address": "Phum Trarpaing Checksa, Sangkat Kompong Chhnang, Kompong Chhnagy Province",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "12.2367105",
     "truelng": "104.6701824",
     "lat": "12.7466",
     "lng": "-142.8349",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "CAMBODIA"
     ]

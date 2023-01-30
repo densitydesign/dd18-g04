@@ -6,12 +6,12 @@
     "city": "Gurugram",
     "category": "INDIA",
     "address": "38Th Milestone, Behrampur Road Sec-38",
-    "clusters": "People outside; Safety; ",
+    "clusters": "Outside break; Safety equipment; ",
     "truelat": "28.4242072",
     "truelng": "77.0111882",
     "lat": "0",
     "lng": "0",
-    "tag": "People outside; Safety; ",
+    "tag": "Outside break; Safety equipment; ",
     "tags": [
         "INDIA"
     ]

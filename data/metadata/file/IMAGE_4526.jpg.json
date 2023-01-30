@@ -6,12 +6,12 @@
     "city": "Gurugram",
     "category": "INDIA",
     "address": "38Th Milestone, Behrampur Road Sec-38",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.4242072",
     "truelng": "77.0111882",
     "lat": "-45.2583",
     "lng": "221.7612",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

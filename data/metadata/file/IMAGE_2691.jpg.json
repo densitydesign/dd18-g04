@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Nayamati, Fatullanarayangonj",
-    "clusters": "Signs; Piles; Safety; ",
+    "clusters": "Signs; Stacked items; Safety equipment; ",
     "truelat": "23.6142506",
     "truelng": "90.503633",
     "lat": "-155.076",
     "lng": "51.1013",
-    "tag": "Signs; Piles; Safety; ",
+    "tag": "Signs; Stacked items; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

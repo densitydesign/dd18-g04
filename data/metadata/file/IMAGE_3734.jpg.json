@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Demirtas Dulumpinar Osb. Kartopu Sokak",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.268095",
     "truelng": "29.0585252",
     "lat": "-60.3416",
     "lng": "204.9251",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

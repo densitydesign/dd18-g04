@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chandra, Polli Biddyut, Kaliakior",
-    "clusters": "Machines; Piles; Flip flops; ",
+    "clusters": "Machinery; Stacked items; Flip-flops; ",
     "truelat": "24.0378585",
     "truelng": "90.2563548",
     "lat": "-75.3398",
     "lng": "95.373",
-    "tag": "Machines; Piles; Flip flops; ",
+    "tag": "Machinery; Stacked items; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

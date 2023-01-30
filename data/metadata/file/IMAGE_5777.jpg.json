@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "A-71, Sector 83",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "28.5509171",
     "truelng": "77.3726409",
     "lat": "-172.1859",
     "lng": "180.7771",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "INDIA"
     ]

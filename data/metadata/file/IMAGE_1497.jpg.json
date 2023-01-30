@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot # M-3, Road # 5, Section # 7, Mirpur",
-    "clusters": "Logos; Safety; ",
+    "clusters": "Factory logos; Safety equipment; ",
     "truelat": "23.8127691",
     "truelng": "90.3629827",
     "lat": "-159.1042",
     "lng": "-119.2117",
-    "tag": "Logos; Safety; ",
+    "tag": "Factory logos; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

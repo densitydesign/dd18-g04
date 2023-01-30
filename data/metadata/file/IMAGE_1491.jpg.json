@@ -6,12 +6,12 @@
     "city": "Gurgaon",
     "category": "INDIA",
     "address": "Plot # 528, Sector-37, Pace City-Ii",
-    "clusters": "Snack; Selfie; ",
+    "clusters": "Food; Selfies; ",
     "truelat": "28.4306669",
     "truelng": "76.9952672",
     "lat": "22.5804",
     "lng": "-22.0172",
-    "tag": "Snack; Selfie; ",
+    "tag": "Food; Selfies; ",
     "tags": [
         "INDIA"
     ]

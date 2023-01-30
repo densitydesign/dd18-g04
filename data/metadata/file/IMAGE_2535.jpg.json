@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Chowdhury Bari, Vogra, Gazipur Sadar",
-    "clusters": "People outside; Safety; ",
+    "clusters": "Outside break; Safety equipment; ",
     "truelat": "23.9266271",
     "truelng": "90.398301",
     "lat": "-66.0343",
     "lng": "-81.4589",
-    "tag": "People outside; Safety; ",
+    "tag": "Outside break; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

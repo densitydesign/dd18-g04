@@ -6,12 +6,12 @@
     "city": "Cerkes",
     "category": "TURKEY",
     "address": "Osb Neighborhood 5,Street No.9-9",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.8113249",
     "truelng": "32.891128",
     "lat": "-14.9064",
     "lng": "185.0798",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

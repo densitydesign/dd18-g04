@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot #531, Tonga Bari, Ashulia, Savar",
-    "clusters": "Woman; Machines; Signs; Piles; ",
+    "clusters": "Woman; Machinery; Signs; Stacked items; ",
     "truelat": "23.903513",
     "truelng": "90.32504",
     "lat": "-110.2117",
     "lng": "92.1437",
-    "tag": "Woman; Machines; Signs; Piles; ",
+    "tag": "Woman; Machinery; Signs; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

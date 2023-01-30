@@ -6,12 +6,12 @@
     "city": "Giza",
     "category": "EGYPT",
     "address": "Kafr Hakim, Kerdasa Road, Embaba",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "30.0815975",
     "truelng": "31.1950354",
     "lat": "-197.3225",
     "lng": "140.6063",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "EGYPT"
     ]

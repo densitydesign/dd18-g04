@@ -6,12 +6,12 @@
     "city": "Faridabad",
     "category": "INDIA",
     "address": "Plot No-137, Sector-24",
-    "clusters": "People outside; Signs; ",
+    "clusters": "Outside break; Signs; ",
     "truelat": "28.5080282",
     "truelng": "77.4085149",
     "lat": "-200.0106",
     "lng": "10.1642",
-    "tag": "People outside; Signs; ",
+    "tag": "Outside break; Signs; ",
     "tags": [
         "INDIA"
     ]

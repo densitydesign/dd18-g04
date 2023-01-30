@@ -6,12 +6,12 @@
     "city": "Lahore",
     "category": "PAKISTAN",
     "address": "3.8 Km Rohi Nala, Off 22 Km Feroz Pur Road, Moza Kacha Tiba",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "31.3856468",
     "truelng": "74.3630189",
     "lat": "-195.0834",
     "lng": "178.603",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

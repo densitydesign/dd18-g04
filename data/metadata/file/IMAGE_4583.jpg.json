@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Dhanua,Nayanpur,Sreepur",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.1996574",
     "truelng": "90.4809098",
     "lat": "67.1838",
     "lng": "12.9487",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

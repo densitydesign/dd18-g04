@@ -6,12 +6,12 @@
     "city": "Noida",
     "category": "INDIA",
     "address": "D-148,Hosiery Complex,Phase Ii, Gautambudha Nagar",
-    "clusters": "Snack; People outside; ",
+    "clusters": "Food; Outside break; ",
     "truelat": "28.5316554",
     "truelng": "77.4075744",
     "lat": "9.7554",
     "lng": "-166.5363",
-    "tag": "Snack; People outside; ",
+    "tag": "Food; Outside break; ",
     "tags": [
         "INDIA"
     ]

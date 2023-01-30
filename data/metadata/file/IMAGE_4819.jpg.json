@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # 20, Sector 12-B, North Karachi Industrial Area",
-    "clusters": "Office; Piles; ",
+    "clusters": "Office; Stacked items; ",
     "truelat": "24.9840303",
     "truelng": "67.089414",
     "lat": "-274.7234",
     "lng": "-69.9747",
-    "tag": "Office; Piles; ",
+    "tag": "Office; Stacked items; ",
     "tags": [
         "PAKISTAN"
     ]

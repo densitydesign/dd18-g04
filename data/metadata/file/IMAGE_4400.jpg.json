@@ -6,12 +6,12 @@
     "city": "Boukhalef",
     "category": "MOROCCO",
     "address": "Lot 103, Lot Nr2,1Er Etg, Zone Franche D'Exportation",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "35.7358498",
     "truelng": "-5.890794",
     "lat": "-45.7088",
     "lng": "202.2825",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "MOROCCO"
     ]

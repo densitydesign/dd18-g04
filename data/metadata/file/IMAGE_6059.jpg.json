@@ -6,12 +6,12 @@
     "city": "Faisalabad",
     "category": "PAKISTAN",
     "address": "220.R.B , Pathanwala , Jhang Road",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "31.3880789",
     "truelng": "72.9971792",
     "lat": "-96.2445",
     "lng": "-204.4719",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "PAKISTAN"
     ]

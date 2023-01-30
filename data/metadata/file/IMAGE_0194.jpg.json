@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Dag No-2224, Matuail, Konapara, Katherpool, Jatrabari",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.7134825",
     "truelng": "90.4702895",
     "lat": "-187.7404",
     "lng": "166.6215",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

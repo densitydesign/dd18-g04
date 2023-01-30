@@ -6,12 +6,12 @@
     "city": "Faridabad",
     "category": "INDIA",
     "address": "Plot No. 1138-1139, Sector-58 Ballabgarh",
-    "clusters": "Machines; Signs; ",
+    "clusters": "Machinery; Signs; ",
     "truelat": "28.3126791",
     "truelng": "77.3008506",
     "lat": "-117.9785",
     "lng": "91.6144",
-    "tag": "Machines; Signs; ",
+    "tag": "Machinery; Signs; ",
     "tags": [
         "INDIA"
     ]

@@ -6,12 +6,12 @@
     "city": "Greater Noida",
     "category": "INDIA",
     "address": "A/ 1-2/9, Site-B, Surajpur Indl. Area",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "28.5126976",
     "truelng": "77.4841858",
     "lat": "-72.0337",
     "lng": "207.9572",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

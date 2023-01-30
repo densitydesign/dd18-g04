@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Kazi Tower, 27 Road Gazipura Tongi",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "23.9199329",
     "truelng": "90.3887782",
     "lat": "-87.0849",
     "lng": "-206.9348",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "BANGLADESH"
     ]

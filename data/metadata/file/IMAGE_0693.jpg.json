@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot 4, Sector 25, Korangi Industrial Area, Korangi Indusrtial Area",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "24.8418235",
     "truelng": "67.1389701",
     "lat": "-92.9597",
     "lng": "-203.4962",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "PAKISTAN"
     ]

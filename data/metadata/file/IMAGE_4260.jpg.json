@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Plot #531, Tonga Bari, Ashulia, Savar",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "23.903513",
     "truelng": "90.32504",
     "lat": "69.2436",
     "lng": "15.1335",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

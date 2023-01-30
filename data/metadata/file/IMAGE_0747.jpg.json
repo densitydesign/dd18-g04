@@ -6,12 +6,12 @@
     "city": "Elche",
     "category": "SPAIN",
     "address": "Calle Juan De La Cierva 83",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "38.299424690",
     "truelng": "-0.614288688",
     "lat": "-128.4202",
     "lng": "185.0281",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "SPAIN"
     ]

@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # Ht-7 Landhi Industrial Area",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.8461562",
     "truelng": "67.2341377",
     "lat": "67.2252",
     "lng": "4.6686",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "PAKISTAN"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Ratanpur, Shafipur, Kaliakoir",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.0552221",
     "truelng": "90.2867581",
     "lat": "68.6156",
     "lng": "-6.1314",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

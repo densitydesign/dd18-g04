@@ -6,12 +6,12 @@
     "city": "Yangon",
     "category": "MYANMAR",
     "address": "No.24, Plot No(6) Thaung Gyi(North) Ngwe Pin Lae Marine Industrial Zone",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "21.756276",
     "truelng": "95.3553574",
     "lat": "-20.0007",
     "lng": "198.9029",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "MYANMAR"
     ]

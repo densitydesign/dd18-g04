@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot # H/2, A-1, Sector-5, Korangi Industrial Area",
-    "clusters": "Signs; Safety; ",
+    "clusters": "Signs; Safety equipment; ",
     "truelat": "24.8529657",
     "truelng": "67.4255814",
     "lat": "-135.5231",
     "lng": "-9.9566",
-    "tag": "Signs; Safety; ",
+    "tag": "Signs; Safety equipment; ",
     "tags": [
         "PAKISTAN"
     ]

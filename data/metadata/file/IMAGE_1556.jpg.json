@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Kazi Tower, 27 Road Gazipura Tongi",
-    "clusters": "Office; Piles; ",
+    "clusters": "Office; Stacked items; ",
     "truelat": "23.9199329",
     "truelng": "90.3887782",
     "lat": "-224.8227",
     "lng": "51.3853",
-    "tag": "Office; Piles; ",
+    "tag": "Office; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

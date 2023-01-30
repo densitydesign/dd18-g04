@@ -6,12 +6,12 @@
     "city": "Adana",
     "category": "TURKEY",
     "address": "Yeni Mahalle Incirlik Bulv. No: 81",
-    "clusters": "Woman; Machines; Piles; Safety; ",
+    "clusters": "Woman; Machinery; Stacked items; Safety equipment; ",
     "truelat": "36.9841627",
     "truelng": "35.2991742",
     "lat": "-96.7629",
     "lng": "85.8872",
-    "tag": "Woman; Machines; Piles; Safety; ",
+    "tag": "Woman; Machinery; Stacked items; Safety equipment; ",
     "tags": [
         "TURKEY"
     ]

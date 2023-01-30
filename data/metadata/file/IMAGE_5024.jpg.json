@@ -6,12 +6,12 @@
     "city": "Jaipur",
     "category": "INDIA",
     "address": "F-22, Sez-1, Sitapura Industrial Area",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "26.7818989",
     "truelng": "75.8457016",
     "lat": "-56.7921",
     "lng": "214.5322",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "INDIA"
     ]

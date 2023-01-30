@@ -6,12 +6,12 @@
     "city": "Narayanganj",
     "category": "BANGLADESH",
     "address": "62,Water Works Road ,Godnail",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.6375156",
     "truelng": "90.5143631",
     "lat": "-168.8328",
     "lng": "167.7034",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

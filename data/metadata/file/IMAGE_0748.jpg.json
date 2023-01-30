@@ -6,12 +6,12 @@
     "city": "Elche",
     "category": "SPAIN",
     "address": "Calle Juan De La Cierva 83",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "38.299424691",
     "truelng": "-0.614288689",
     "lat": "-207.5671",
     "lng": "158.1465",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "SPAIN"
     ]

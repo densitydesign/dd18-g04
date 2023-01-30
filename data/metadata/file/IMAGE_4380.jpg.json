@@ -6,12 +6,12 @@
     "city": "Karachi",
     "category": "PAKISTAN",
     "address": "Plot 47, Sector 7-A Korangi Industrial Area, Karachi",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "24.8543231",
     "truelng": "67.1197198",
     "lat": "-45.0706",
     "lng": "-205.0703",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "PAKISTAN"
     ]

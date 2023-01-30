@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Bagan, Trishal, Mymensingh",
-    "clusters": "Vehicles; Flip flops; ",
+    "clusters": "Vehicles; Flip-flops; ",
     "truelat": "24.5816585",
     "truelng": "90.3948498",
     "lat": "-56.041",
     "lng": "-144.369",
-    "tag": "Vehicles; Flip flops; ",
+    "tag": "Vehicles; Flip-flops; ",
     "tags": [
         "BANGLADESH"
     ]

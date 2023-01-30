@@ -6,12 +6,12 @@
     "city": "Ashulia",
     "category": "BANGLADESH",
     "address": "Goshbag (Itkhola Bus Stand) Toyobpur",
-    "clusters": "Machines; Piles; ",
+    "clusters": "Machinery; Stacked items; ",
     "truelat": "23.9167452",
     "truelng": "90.3102028",
     "lat": "-115.7775",
     "lng": "169.7642",
-    "tag": "Machines; Piles; ",
+    "tag": "Machinery; Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

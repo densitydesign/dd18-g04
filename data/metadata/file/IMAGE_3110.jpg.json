@@ -6,12 +6,12 @@
     "city": "Trofa",
     "category": "PORTUGAL",
     "address": "Rua Gomes Teixeira Matematico S/N",
-    "clusters": "Vehicles; Logos; ",
+    "clusters": "Vehicles; Factory logos; ",
     "truelat": "41.3419349",
     "truelng": "-8.5399742",
     "lat": "-130.2674",
     "lng": "-254.2402",
-    "tag": "Vehicles; Logos; ",
+    "tag": "Vehicles; Factory logos; ",
     "tags": [
         "PORTUGAL"
     ]

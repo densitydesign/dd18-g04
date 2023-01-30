@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "49GX+XX12",
-    "clusters": "Machines; Signs; Piles; Safety; ",
+    "clusters": "Machinery; Signs; Stacked items; Safety equipment; ",
     "truelat": "24.1274125",
     "truelng": "90.3999844",
     "lat": "-139.537",
     "lng": "78.7189",
-    "tag": "Machines; Signs; Piles; Safety; ",
+    "tag": "Machinery; Signs; Stacked items; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Shi-145/1, Jogitola, Joydebpur",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "23.9650796",
     "truelng": "90.4003579",
     "lat": "-173.7413",
     "lng": "168.6975",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "BANGLADESH"
     ]

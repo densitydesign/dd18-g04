@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Dhania, Nayerhat,Ashulia,Savar",
-    "clusters": "Woman; Machines; ",
+    "clusters": "Woman; Machinery; ",
     "truelat": "23.9133119",
     "truelng": "90.2397116",
     "lat": "-30.9645",
     "lng": "108.1107",
-    "tag": "Woman; Machines; ",
+    "tag": "Woman; Machinery; ",
     "tags": [
         "BANGLADESH"
     ]

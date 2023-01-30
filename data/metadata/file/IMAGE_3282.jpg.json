@@ -6,12 +6,12 @@
     "city": "Ludhiana",
     "category": "INDIA",
     "address": "Vpo Bhamian Kalan, Tajpur Road, Near Hundal Chowk Ludhiana",
-    "clusters": "Office; Piles; ",
+    "clusters": "Office; Stacked items; ",
     "truelat": "30.9211316",
     "truelng": "75.9323835",
     "lat": "-222.3799",
     "lng": "54.7297",
-    "tag": "Office; Piles; ",
+    "tag": "Office; Stacked items; ",
     "tags": [
         "INDIA"
     ]

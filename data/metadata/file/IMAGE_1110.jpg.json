@@ -6,12 +6,12 @@
     "city": "Bursa",
     "category": "TURKEY",
     "address": "Dosab Mustafa Karaer Cd. Sarmasik Sk. No:10 / 1",
-    "clusters": "Machines; ",
+    "clusters": "Machinery; ",
     "truelat": "40.2667986",
     "truelng": "29.0804013",
     "lat": "-90.0021",
     "lng": "224.3352",
-    "tag": "Machines; ",
+    "tag": "Machinery; ",
     "tags": [
         "TURKEY"
     ]

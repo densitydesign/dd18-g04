@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Plot No 50 51 Sector No 3 Karnaphuli Export Processing Zone",
-    "clusters": "People outside; ",
+    "clusters": "Outside break; ",
     "truelat": "22.2722722",
     "truelng": "91.7896022",
     "lat": "33.0544",
     "lng": "-157.1508",
-    "tag": "People outside; ",
+    "tag": "Outside break; ",
     "tags": [
         "BANGLADESH"
     ]

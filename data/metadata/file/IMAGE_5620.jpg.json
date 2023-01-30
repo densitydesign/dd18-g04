@@ -6,12 +6,12 @@
     "city": "Ho Chi Minh",
     "category": "VIETNAM",
     "address": "121 Le Van Chi, Linh Trung Ward, Thu Duc District",
-    "clusters": "People outside; Vehicles; Logos; ",
+    "clusters": "Outside break; Vehicles; Factory logos; ",
     "truelat": "10.8586302",
     "truelng": "106.7775529",
     "lat": "-145.2404",
     "lng": "-256.997",
-    "tag": "People outside; Vehicles; Logos; ",
+    "tag": "Outside break; Vehicles; Factory logos; ",
     "tags": [
         "VIETNAM"
     ]

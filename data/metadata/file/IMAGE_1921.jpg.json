@@ -6,12 +6,12 @@
     "city": "Mymensingh",
     "category": "BANGLADESH",
     "address": "Jamirdia, Masterbari, Bhaluka",
-    "clusters": "Snack; ",
+    "clusters": "Food; ",
     "truelat": "24.2983801",
     "truelng": "90.3883517",
     "lat": "69.8435",
     "lng": "3.5063",
-    "tag": "Snack; ",
+    "tag": "Food; ",
     "tags": [
         "BANGLADESH"
     ]

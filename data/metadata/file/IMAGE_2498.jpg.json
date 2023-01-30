@@ -6,12 +6,12 @@
     "city": "Gazipur",
     "category": "BANGLADESH",
     "address": "Bade Kalmeshwar, Board Bazar",
-    "clusters": "People outside; Vehicles; Flip flops; Safety; ",
+    "clusters": "Outside break; Vehicles; Flip-flops; Safety equipment; ",
     "truelat": "23.9446619",
     "truelng": "90.3842123",
     "lat": "-59.024",
     "lng": "-110.4206",
-    "tag": "People outside; Vehicles; Flip flops; Safety; ",
+    "tag": "Outside break; Vehicles; Flip-flops; Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

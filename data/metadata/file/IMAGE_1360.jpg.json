@@ -6,12 +6,12 @@
     "city": "Tien Giang",
     "category": "VIETNAM",
     "address": "My Tho Industrial Zone, Trung An Village,My Tho City",
-    "clusters": "Piles; ",
+    "clusters": "Stacked items; ",
     "truelat": "10.3603078",
     "truelng": "106.3316629",
     "lat": "-196.7734",
     "lng": "166.5107",
-    "tag": "Piles; ",
+    "tag": "Stacked items; ",
     "tags": [
         "VIETNAM"
     ]

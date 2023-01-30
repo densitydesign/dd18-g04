@@ -6,12 +6,12 @@
     "city": "Istambul",
     "category": "TURKEY",
     "address": "Ikitelli Organize Sanayi Bolgesi Ataturk Bulvari No: 110 D Blok Kat",
-    "clusters": "People outside; Vehicles; ",
+    "clusters": "Outside break; Vehicles; ",
     "truelat": "41.0735878",
     "truelng": "28.8072399",
     "lat": "-24.6378",
     "lng": "-200.3326",
-    "tag": "People outside; Vehicles; ",
+    "tag": "Outside break; Vehicles; ",
     "tags": [
         "TURKEY"
     ]

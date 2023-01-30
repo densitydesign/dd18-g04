@@ -6,12 +6,12 @@
     "city": "Chittagong",
     "category": "BANGLADESH",
     "address": "Khaja Road, Kulgaon, Jalalabad",
-    "clusters": "People outside; Signs; ",
+    "clusters": "Outside break; Signs; ",
     "truelat": "22.4038074",
     "truelng": "91.8254921",
     "lat": "15.8926",
     "lng": "-164.1614",
-    "tag": "People outside; Signs; ",
+    "tag": "Outside break; Signs; ",
     "tags": [
         "BANGLADESH"
     ]

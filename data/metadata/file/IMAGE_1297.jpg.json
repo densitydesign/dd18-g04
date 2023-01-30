@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "2 Dhaka - Mymensingh Hwy",
-    "clusters": "Safety; ",
+    "clusters": "Safety equipment; ",
     "truelat": "23.9921795",
     "truelng": "90.3844276",
     "lat": "-122.1972",
     "lng": "-34.1036",
-    "tag": "Safety; ",
+    "tag": "Safety equipment; ",
     "tags": [
         "BANGLADESH"
     ]

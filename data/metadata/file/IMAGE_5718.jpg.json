@@ -6,12 +6,12 @@
     "city": "Dhaka",
     "category": "BANGLADESH",
     "address": "Pagar, Munno Nagar, Tongi",
-    "clusters": "People outside; Children; Vehicles; ",
+    "clusters": "Outside break; Children; Vehicles; ",
     "truelat": "23.9028244",
     "truelng": "90.4040473",
     "lat": "-12.0656",
     "lng": "-174.3368",
-    "tag": "People outside; Children; Vehicles; ",
+    "tag": "Outside break; Children; Vehicles; ",
     "tags": [
         "BANGLADESH"
     ]
