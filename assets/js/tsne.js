@@ -3640,9 +3640,10 @@ Welcome.prototype.removeLoader = function(onSuccess) {
         if (i == blocks.length-1) onSuccess();
       }.bind(this, i), 1000)
     }.bind(this, i), i*100)
+
   }
-  document.querySelector('#progress').style.opacity = 0;
-  document.querySelector('#clicktoenter').style.opacity = 0;
+  // document.querySelector('#progress').style.opacity = 0;
+  document.querySelector('#clicktoenter').innerHTML = "HOLD ON...";
 }
 
 Welcome.prototype.updateProgress = function() {
@@ -3657,6 +3658,7 @@ Welcome.prototype.updateProgress = function() {
       data.loadedTextures == data.textureCount &&
       world.heightmap) {
     this.buttonElem.className += ' active';
+    document.querySelector('#clicktoenter').style.display="block";
   }
 }
 

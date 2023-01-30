@@ -997,7 +997,7 @@ animation-play-state: paused;
   top: 35%;
   /* transform:translate(0,-50%); */
   animation: blink 0.4s alternate infinite;
-  color: var(--grey);
+  color: rgba(0, 0, 0, 0.7);
 	}
 
 @keyframes blink{
