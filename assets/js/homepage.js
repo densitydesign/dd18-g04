@@ -20,15 +20,18 @@ if (index < 3) {
   $("#bg-container").css("background-image", imagepath);
  }
 
- if (index >= 3) {
+ if (index == 3 || index == 4) {
    $(this).siblings().css("display", "block");
  }
 
+if (index > 4) {
    if ($(this).is("#hover-left")) {
      $(this).css("background-image", "url('assets/img/home5s.gif')");
+    $(this).css("background-size", "cover");
    } else if ($(this).is("#hover-right")) {
      $(this).css("background-image", "url('assets/img/home5d.gif')");
-
+    $(this).css("background-size", "cover");
+}
    $(this).children().css("color", "white");
    $(this).children().css("mix-blend-mode", "difference");
    $(this).siblings().css("background-image", "none")
