@@ -32,11 +32,12 @@ if (index > 4) {
      $(this).css("background-image", "url('assets/img/home5d.gif')");
     $(this).css("background-size", "cover");
 }
+$(this).siblings().css("background-image", "none")
+}
    $(this).children().css("color", "white");
    $(this).children().css("mix-blend-mode", "difference");
-   $(this).siblings().css("background-image", "none")
    $(this).siblings().css("color", "black")
-   }
+   
 })
 
 
